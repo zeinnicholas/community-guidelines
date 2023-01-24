@@ -52,11 +52,6 @@ body:
         - label: "This bug happens with only Elementor plugin active (and Elementor Pro)."
         - label: "This bug happens with a Blank WordPress theme active ([Hello theme](https://wordpress.org/themes/hello-elementor/))."
         - label: "I can reproduce this bug consistently using the steps above."
-  - type: markdown
-    attributes:
-      value: |
-        <details>
-          <summary>System Info</summary>          
   - type: textarea
     id: system_info
     validations:
@@ -64,8 +59,14 @@ body:
     attributes:
       label: "System Info"
       description: "For faster debugging [copy your system environment](https://www.youtube.com/watch?v=tDXdynsnYuA) from `Elementor` => `System info`, and paste it here or in https://pastebin.com/"
-  - type: markdown
-    attributes:
       value: |
+        <details>
+          <summary>System Info</summary>
+          <!--- Paste your system info in between the backticks lines -->
+          ```txt
+          
+          ```
         </details>
+          
+          
           
