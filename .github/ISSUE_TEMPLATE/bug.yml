@@ -59,14 +59,7 @@ body:
     attributes:
       label: "System Info"
       description: "For faster debugging [copy your system environment](https://www.youtube.com/watch?v=tDXdynsnYuA) from `Elementor` => `System info`, and paste it here or in https://pastebin.com/"
-      value: |
-        <details>
-          <summary>System Info</summary>
-          <!--- Paste your system info in between the backticks lines -->
-          ```txt
-          
-          ```
-        </details>
+      render: markdown
           
           
           
