@@ -7,7 +7,7 @@ body:
       value: |
         ## ⚠️ BEFORE POSTING YOUR ISSUE
         ### 🐞 Please create GitHub issues only for Elementor Bug Reports. 
-        #### ❌ GitHub issues should NOT BE USED FOR SUPPORT ❌.
+        #### ❌ GitHub issues should <ins>NOT BE USED FOR SUPPORT</ins> ❌.
         ❔ If you have questions, need guidance, help, or general support, please use one of the following channels:
         - [Elementor Global Community](https://facebook.com/groups/Elementors/) The main Facebook group where all kinds of users come together to help each other.
         - [Elementor Advanced Users](https://www.facebook.com/groups/elementoradvanced) A group on Facebook for more advanced users.
@@ -24,7 +24,7 @@ body:
         - 🔬 **Isolate the problem:** Deactivate all of your plugins, and temporarily change your WordPress theme to [Hello theme](https://wordpress.org/themes/hello-elementor/). If this solves the problem, gradually activate your plugins and theme one by one, until you spot the conflicting plugin or theme.
         - 🕵️ **Validate Your Issue:** If the issue can't be recreated consistently or reproduced on other sites, it's not an Elementor bug. In that case, use one of the support links above.
         - 🧩 **Contact 3rd-party Support:** If the issue happens with an Elementor add-on, extension, compatible plugin, or integrated theme, contact their support first. We do not provide support for 3rd-party software.
-        - 1️⃣ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE</ins>** per thread, so we can properly track them and reference them without any confusion.
+        - 1️⃣ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, so we can properly track them and reference them without any confusion.
 
         ## THE ISSUE
   - type: checkboxes
