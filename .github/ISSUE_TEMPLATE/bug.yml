@@ -127,7 +127,7 @@ body:
       options:
         - label: "This bug happens with only Elementor plugin active (and Elementor Pro)."
         - label: "This bug happens with a Blank WordPress theme active ([Hello theme](https://wordpress.org/themes/hello-elementor/))."
-        - label: "I can reproduce this bug consistently using the steps above."
+        - label: "I can reproduce this bug consistently following the steps above."
   - type: textarea
     id: system_info
     validations:
