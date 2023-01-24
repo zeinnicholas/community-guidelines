@@ -100,7 +100,7 @@ body:
       required: true
     attributes:
       label: "System Info"
-      description: "Please share your **System Info** from your WordPress `Dashboard` > `Elementor` > `System info` [learn how copy it here](https://www.youtube.com/watch?v=tDXdynsnYuA), and paste it below."
+      description: "Please share your **System Info** from your WordPress `Dashboard` > `Elementor` > `System info` [learn how to copy it here](https://elementor.com/help/hare-my-system-info/), and paste it below."
       render: markdown
   - type: markdown
     attributes:
