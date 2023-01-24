@@ -4,17 +4,6 @@ body:
     attributes:
       value: |
         ## ⚠️ BEFORE POSTING YOUR REQUEST
-        ### ❌ GitHub discussions should <ins>NOT BE USED FOR SUPPORT</ins> ❌.
-        ❔ If you have questions, need guidance, help, or general support, please use one of the following channels:
-        - [Elementor Global Community](https://facebook.com/groups/Elementors/) The main Facebook group where all kinds of users come together to help each other.
-        - [Elementor Advanced Users](https://www.facebook.com/groups/elementoradvanced) A group on Facebook for more advanced users.
-        - [Elementor Pioneers](https://www.facebook.com/groups/elementorpioneers) This Facebook group is for people who like to participate in new experiments.
-        - [Elementor Academy](https://elementor.com/academy) Learn everything you need to know about using Elementor.
-        - [Elementor Developers Documentation](https://developers.elementor.com/) Learn everything about our Developer-API.
-        - [Free Support Forum](https://wordpress.org/support/plugin/elementor) Get help on WordPress.org.
-
-        💎 If you have an active [Elementor Pro](https://elementor.com/pro) license you are entitled to personal support, please see your purchase email or visit your [Elementor Account page](https://my.elementor.com/dashboard-support/) for details.
-
         ### 🙏 Follow these best practices to help save you time
         - 🔍 **Search Before Posting:** Before creating a new Feature Request, please search for similar Request to prevent creating duplicates.
         - 🆕 **Stay Up-to-date:** Make sure you are using the most recent and stable versions of [Elementor](https://wordpress.org/plugins/elementor/#developers), and [Elementor Pro](https://elementor.com/pro/changelog/), and that the request you're suggesting is not already available with the latest versions.
@@ -34,7 +23,7 @@ body:
   - type: dropdown
     id: bug_type
     attributes:
-      label: "Type of Bug"
+      label: "Type of Request"
       description: "What type of Feature Request are you suggesting? Please select at least one option that is relevant to your request (acceppts multiple options)."
       multiple: true
       options:
