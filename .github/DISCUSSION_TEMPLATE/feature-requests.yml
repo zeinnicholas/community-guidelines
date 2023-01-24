@@ -1,5 +1,3 @@
-name: "🚀 Feature Request"
-description: "Suggest an idea for this project"
 labels: ["status/awaiting_triage"]
 body:
   - type: markdown
