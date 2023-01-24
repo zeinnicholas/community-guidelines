@@ -1,5 +1,4 @@
 blank_issues_enabled: false
-security_advisory_enabled: false
 contact_links:
   - name: ❓ Support Question
     url: https://wordpress.org/support/plugin/elementor/
