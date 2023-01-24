@@ -100,7 +100,7 @@ body:
       required: true
     attributes:
       label: "System Info"
-      description: "For faster debugging [copy your system environment](https://www.youtube.com/watch?v=tDXdynsnYuA) from your WordPress `Dashboard` > `Elementor` > `System info`, and paste it below.
+      description: "Please share your **System Info* from your WordPress `Dashboard` > `Elementor` > `System info` [learn how copy it here](https://www.youtube.com/watch?v=tDXdynsnYuA), and paste it below."
       render: markdown
   - type: markdown
     attributes:
