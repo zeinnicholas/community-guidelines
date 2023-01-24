@@ -44,7 +44,7 @@ body:
       multiple: true
       options:
         - "Accessibility"
-        - "Assets"
+        - "Assets (JS/CSS)"
         - "Compatibility"
         - "A Component"
         - "Content Management"
