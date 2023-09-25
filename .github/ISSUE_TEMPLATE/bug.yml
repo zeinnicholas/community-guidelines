@@ -126,7 +126,7 @@ body:
     attributes:
       label: "Agreement"
       options:
-         - label: "I agree that my issue may be closed without any action if it doesn't fufill all the requirements."
+         - label: "I agree that my issue may be closed without any action if it doesn't fulfill all the requirements."
            required: true
   - type: markdown
     attributes:
