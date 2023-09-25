@@ -7,7 +7,6 @@ body:
       value: |
         # ⚠️ BEFORE POSTING YOUR ISSUE READ THIS CAREFULLY
         ### 🐞 Please create GitHub Issues only for Elementor Bug Reports.
-        ---
         ### ❔ Need Help, Assistance, or Support? <ins>[CLICK HERE](https://elementor.com/help/how-to-submit-a-support-ticket/)</ins>
         ---
         ### 🙏 Follow these best practices to help save time
@@ -15,11 +14,11 @@ body:
 
         - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. Tickets with more than one reported issue may be closed without action.
 
-        ## THE ISSUE
         ### ☑️ All fields are required!
         - ❌ Issues lacking detail, or submitted for any other reason than to report a bug, may be closed without action.
         - 🧩 We do not provide support for 3rd-party add-ons, extensions, and plugins.
         ---
+        # THE ISSUE
         ### 📋 Prerequisites
         - 🔍 **Search Before Posting:** Please [search for similar issues](https://github.com/elementor/elementor/issues/) (both open and closed) to prevent creating duplicates.
         - 🆕 **Stay Up-to-date:** Make sure you are using the **<ins>most recent and stable versions</ins>** of all plugins, theme, and WordPress.
