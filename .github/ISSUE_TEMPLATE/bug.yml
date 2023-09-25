@@ -36,6 +36,7 @@ body:
     attributes:
       value: |
         <br>
+        
         ### 💬 Provide a Detailed Description
         - Please Describe the problem in detail, and provide examples, screenshots, screen recordings, and related links.
   - type: textarea
