@@ -17,7 +17,7 @@ body:
 
         ### ✳️ All fields are required!
         - ❌ Issues lacking detail, or submitted for any other reason than to report a bug, may be closed without action.
-        - 🧩 We do not provide support for conflicts with 3rd-party add-ons, extensions, and plugins.
+        - 🧩 We do not provide support for conflicts with 3rd-party add-ons, extensions, and other plugins or themes.
         ---
         # THE ISSUE
         ### 📋 Prerequisites
