@@ -21,7 +21,7 @@ body:
         ---
         # THE ISSUE
         ### 📋 Prerequisites
-        - 🔍 **Search Before Posting:** Please [search for similar issues](https://github.com/elementor/elementor/issues/) (both open and closed) to prevent creating duplicates.
+        - 🔍 **Search Before Posting:** Please [search for similar issues](https://elemn.to/GitHub) (both open and closed) to prevent creating duplicates.
         - 🆕 **Stay Up-to-date:** Make sure you are using the **<ins>most recent and stable versions</ins>** of all plugins, theme, and WordPress.
   - type: checkboxes
     id: prerequisites
