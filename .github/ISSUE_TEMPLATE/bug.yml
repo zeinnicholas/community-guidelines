@@ -57,7 +57,7 @@ body:
     attributes:
       label: "Steps to reproduce"
       description: "Provide steps that we can reproduce on our own."
-      placeholder: "1. ... \n 2. ... \n 3. ..."
+      placeholder: "1. ... \n2. ... \n3. ..."
   - type: markdown
     attributes:
       value: |
@@ -71,7 +71,7 @@ body:
     attributes:
       label: "Expected behavior"
       description: "Help us understand what you are expecting to happen."
-      placeholder: "1. ... \n 2. ... \n 3. ..."
+      placeholder: "1. ... \n2. ... \n3. ..."
   - type: markdown
     attributes:
       value: |
@@ -101,7 +101,7 @@ body:
     attributes:
       label: "System Info"
       description: "Redact sensitive data if necessary (emails, root paths, etc.)."
-      placeholder: "== Server Environment == \n == WordPress Environment == \n == Theme == \n == User == \n == Active Plugins == \n == Elements Usage == \n == Settings == \n == Features == \n == Integrations == \n == Elementor Experiments == \n == Log == \n == Elementor - Compatibility Tag == \n == Elementor Pro - Compatibility Tag =="
+      placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
   - type: markdown
     attributes:
       value: |
