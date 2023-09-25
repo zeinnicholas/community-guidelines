@@ -12,7 +12,7 @@ body:
         ### 🙏 Follow these best practices to help save time
         - ✒️ **Write a clear and concise title:** Summarize your issue in a short sentence that can help identify your issue at a glance.
 
-        - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. Tickets with more than one reported issue may be closed without action.
+        - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. \nTickets with more than one reported issue may be closed without action.
 
         ### ☑️ All fields are required!
         - ❌ Issues lacking detail, or submitted for any other reason than to report a bug, may be closed without action.
@@ -93,7 +93,7 @@ body:
         ---
         ### 💾 Elementor System Info
         - ⚠️ This field is **<ins>REQUIRED</ins>**.
-        - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page) [learn how to copy it here](https://elemn.to/help-system-info). We won't accept issues without it.
+        - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). \nWe won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).
   - type: textarea
     id: system_info
     validations:
