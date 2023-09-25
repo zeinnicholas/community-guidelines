@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Hello, welcome to the Elementor GitHub repository! 👋
+        ### 👋 Hello, welcome to the Elementor GitHub repository!
         # ⚠️ BEFORE POSTING YOUR ISSUE READ THIS CAREFULLY
         ### 🐞 Please create GitHub Issues only for Elementor Bug Reports.
         ### ❔ Need Help, Assistance, or Support? <ins>[CLICK HERE](https://elementor.com/help/how-to-submit-a-support-ticket/)</ins>
