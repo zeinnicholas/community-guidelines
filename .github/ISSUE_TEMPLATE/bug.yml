@@ -92,11 +92,11 @@ body:
       required: true
     attributes:
       label: "System Info"
-      placeholder: "== Server Environment == \n == WordPress Environment == \n == Theme == \n == User == \n == Active Plugins == \n == Elements Usage == \n == Settings == \n == Features == \n == Integrations == \n == Elementor Experiments == \n == Log == \n == Elementor - Compatibility Tag == \n == Elementor Pro - Compatibility Tag =="
+      placeholder: "Server Environment, WordPress Environment, Theme, User, Active Plugins, Elements Usage, Settings, Features, Integrations, Elementor Experiments, Log, Elementor - Compatibility Tag, Elementor Pro - Compatibility Tag"
   - type: markdown
     attributes:
       value: |
-        ----
+        ---
         ## 📃 Agreement
         - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. We reserve the right to close issues that do not comply with these guidelines without any warning.
   - type: checkboxes
