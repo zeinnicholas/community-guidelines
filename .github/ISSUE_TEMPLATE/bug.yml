@@ -43,6 +43,7 @@ body:
       required: true
     attributes:
       label: "Description"
+      description: "Help us understand in detail what issue you are experiencing."
   - type: markdown
     attributes:
       value: |
@@ -55,19 +56,21 @@ body:
       required: true
     attributes:
       label: "Steps to reproduce"
+      description: "Provide steps that we can reproduce on our own."
       placeholder: "1. ... 2. ... 3. ..."
   - type: markdown
     attributes:
       value: |
         ---
         ### 🧮 Expected Behavior
-        - Describe what was the expected behavior in detail to help identify the root of the issue.
+        - Describe what is the expected behavior in detail to help identify the root of the issue.
   - type: textarea
     id: expected_behavior
     validations:
       required: true
     attributes:
       label: "Expected behavior"
+      description: "Help us understand what you are expecting to happen."
       placeholder: "1. ... 2. ... 3. ..."
   - type: markdown
     attributes:
@@ -97,6 +100,7 @@ body:
       required: true
     attributes:
       label: "System Info"
+      description: "Redact sensitive data if necessary (emails, root paths, etc.)."
       placeholder: "Server Environment, WordPress Environment, Theme, User, Active Plugins, Elements Usage, Settings, Features, Integrations, Elementor Experiments, Log, Elementor - Compatibility Tag, Elementor Pro - Compatibility Tag"
   - type: markdown
     attributes:
