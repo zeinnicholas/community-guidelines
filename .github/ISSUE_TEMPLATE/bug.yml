@@ -12,7 +12,7 @@ body:
         ### 🙏 Follow these best practices to help save time
         - ✒️ **Write a clear and concise title:** Summarize your issue in a short sentence that can help identify your issue at a glance.
 
-        - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. \nTickets with more than one reported issue may be closed without action.
+        - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. <br>Tickets with more than one reported issue may be closed without action.
 
         ### ☑️ All fields are required!
         - ❌ Issues lacking detail, or submitted for any other reason than to report a bug, may be closed without action.
@@ -49,7 +49,7 @@ body:
       value: |
         ---
         ### 👣 Steps to Reproduce
-        - List all the steps needed to reproduce the issue in detail, so we can replicate the issue in our own environment. Be thorough, we won't be able to reproduce it if you don't explain how.
+        - List all the steps needed to reproduce the issue in detail, so we can replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't explain it in full.
   - type: textarea
     id: steps_to_reproduce
     validations:
@@ -78,7 +78,7 @@ body:
         ---
         ### 🕵️ Isolate the problem and Validate your issue
         - Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/).
-        - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. In that case, use the support link above.
+        - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>In that case, use the support link at the top.
   - type: checkboxes
     id: isolating_the_problem
     attributes:
@@ -93,7 +93,7 @@ body:
         ---
         ### 💾 Elementor System Info
         - ⚠️ This field is **<ins>REQUIRED</ins>**.
-        - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). \nWe won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).
+        - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).
   - type: textarea
     id: system_info
     validations:
@@ -107,7 +107,7 @@ body:
       value: |
         ---
         ### 📃 Agreement
-        - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. We reserve the right to close issues that do not comply with these guidelines without any warning.
+        - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close issues that do not comply with these guidelines without any warning.
   - type: checkboxes
     id: final_agreement
     attributes:
