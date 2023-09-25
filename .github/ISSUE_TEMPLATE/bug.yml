@@ -9,7 +9,8 @@ body:
         # ⚠️ BEFORE POSTING YOUR ISSUE READ THIS CAREFULLY
         ### 🐞 Please create GitHub Issues only for Elementor Bug Reports.
         ### ❔ Need Help, Assistance, or Support? <ins>[CLICK HERE](https://elementor.com/help/how-to-submit-a-support-ticket/)</ins>
-        ---
+        <br>
+        
         ### 😉 Follow these best practices to help save time
         - ✒️ **Write a clear and concise title:** Summarize your issue in a short sentence that can help identify your issue at a glance.
 
@@ -19,6 +20,8 @@ body:
         - ❌ Issues lacking detail, or submitted for any other reason than to report a bug, may be closed without action.
         - 🧩 We do not provide support for conflicts with 3rd-party add-ons, extensions, and other plugins or themes.
         ---
+        <br>
+        
         # THE ISSUE
         ### 📋 Prerequisites
         - 🔍 **Search Before Posting:** Please [search for similar issues](https://elemn.to/GitHub) (both open and closed) to prevent creating duplicates.
@@ -50,6 +53,7 @@ body:
     attributes:
       value: |
         <br>
+        
         ### 👣 Steps to Reproduce
         - List all the steps needed to reproduce the issue in detail, so we can replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't explain it in full.
   - type: textarea
@@ -64,6 +68,7 @@ body:
     attributes:
       value: |
         <br>
+        
         ### 🧮 Expected Behavior
         - Describe what is the expected behavior in detail to help identify the root of the issue.
   - type: textarea
@@ -78,6 +83,7 @@ body:
     attributes:
       value: |
         <br>
+        
         ### 🕵️ Isolate the problem and Validate your issue
         - Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/).
         - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>In that case, use the support link at the top.
@@ -93,6 +99,7 @@ body:
     attributes:
       value: |
         <br>
+        
         ### 💾 Elementor System Info
         - ⚠️ This field is **<ins>REQUIRED</ins>**.
         - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).
@@ -108,6 +115,7 @@ body:
     attributes:
       value: |
         <br>
+        
         ### 📃 Agreement
         - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close issues that do not comply with these guidelines without any warning.
   - type: checkboxes
@@ -120,5 +128,7 @@ body:
   - type: markdown
     attributes:
       value: |
+        <br>
+        
         ---
         ### Thank you for contributing and helping shape the future of Elementor! 🙏
