@@ -72,7 +72,7 @@ body:
       value: |
         <br>
         
-        ### 🧮 Expected Behavior
+        ### 🧐 Expected Behavior
         - Describe what is the expected behavior in detail to help identify the root of the issue.
   - type: textarea
     id: expected_behavior
