@@ -6,20 +6,21 @@ body:
     attributes:
       value: |
         # ⚠️ BEFORE POSTING YOUR ISSUE READ THIS CAREFULLY
-        ## 🐞 Please create GitHub Issues only for Elementor Bug Reports.
+        ### 🐞 Please create GitHub Issues only for Elementor Bug Reports.
+        ---
         ### ❔ Need Help, Assistance, or Support? <ins>[CLICK HERE](https://elementor.com/help/how-to-submit-a-support-ticket/)</ins>
-
-        ## 🙏 Follow these best practices to help save time
+        ---
+        ### 🙏 Follow these best practices to help save time
         - ✒️ **Write a clear and concise title:** Summarize your issue in a few words that can be easily identified.
 
         - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. Tickets with more than one reported issue may be closed without action.
 
-        # THE ISSUE
-        ## ☑️ All fields are required!
+        ## THE ISSUE
+        ### ☑️ All fields are required!
         - ❌ Issues lacking detail, or submitted for any other reason than to report a bug, may be closed without action.
         - 🧩 We do not provide support for 3rd-party add-ons, extensions, and plugins.
-
-        ## 📋 Prerequisites
+        ---
+        ### 📋 Prerequisites
         - 🔍 **Search Before Posting:** Please [search for similar issues](https://github.com/elementor/elementor/issues/) (both open and closed) to prevent creating duplicates.
         - 🆕 **Stay Up-to-date:** Make sure you are using the **<ins>most recent and stable versions</ins>** of all plugins, theme, and WordPress.
   - type: checkboxes
@@ -34,7 +35,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 💬 Provide a Detailed Description
+        ---
+        ### 💬 Provide a Detailed Description
         - Please Describe the problem in detail, and provide examples, screenshots, screen recordings, and related links.
   - type: textarea
     id: description
@@ -45,7 +47,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 👣 Steps to Reproduce
+        ---
+        ### 👣 Steps to Reproduce
         - List all the steps needed to reproduce the issue in detail, so we can replicate the issue in our own environment. Be thorough, we won't be able to reproduce it if you don't explain how.
   - type: textarea
     id: steps_to_reproduce
@@ -57,7 +60,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 🧮 Expected Behavior
+        ---
+        ### 🧮 Expected Behavior
         - Describe what was the expected behavior in detail to help identify the root of the issue.
   - type: textarea
     id: expected_behavior
@@ -69,7 +73,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 🕵️ Isolate the problem and Validate your issue
+        ---
+        ### 🕵️ Isolate the problem and Validate your issue
         - Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/).
         - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. In that case, use the support link above.
   - type: checkboxes
@@ -83,7 +88,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 💾 Elementor System Info
+        ---
+        ### 💾 Elementor System Info
         - ⚠️ This field is **<ins>REQUIRED</ins>**.
         - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page) [learn how to copy it here](https://elemn.to/help-system-info). We won't accept issues without it.
   - type: textarea
@@ -97,7 +103,7 @@ body:
     attributes:
       value: |
         ---
-        ## 📃 Agreement
+        ### 📃 Agreement
         - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. We reserve the right to close issues that do not comply with these guidelines without any warning.
   - type: checkboxes
     id: final_agreement
