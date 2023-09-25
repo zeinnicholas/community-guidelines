@@ -104,5 +104,5 @@ body:
     attributes:
       label: "Agreement"
       options:
-        - label: "I agree that my issue may be closed without any action if it doesn't follow all the requirements."
-          required: true
+         - label: "I agree that my issue may be closed without any action if it doesn't follow all the requirements."
+           required: true
