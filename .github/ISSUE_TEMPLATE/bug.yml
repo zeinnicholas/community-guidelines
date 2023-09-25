@@ -101,7 +101,7 @@ body:
     attributes:
       label: "System Info"
       description: "Redact sensitive data if necessary (emails, root paths, etc.)."
-      placeholder: "Server Environment, WordPress Environment, Theme, User, Active Plugins, Elements Usage, Settings, Features, Integrations, Elementor Experiments, Log, Elementor - Compatibility Tag, Elementor Pro - Compatibility Tag"
+      placeholder: "Server Environment, \n WordPress Environment, Theme, User, Active Plugins, Elements Usage, Settings, Features, Integrations, Elementor Experiments, Log, Elementor - Compatibility Tag, Elementor Pro - Compatibility Tag"
   - type: markdown
     attributes:
       value: |
