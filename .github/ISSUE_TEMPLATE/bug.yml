@@ -13,7 +13,7 @@ body:
         ### 😉 Follow these best practices to help save time
         - ✒️ **Write a clear and concise title:** Summarize your issue in a short sentence that can help identify your issue at a glance.
 
-        - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. <br>Tickets with more than one reported issue may be closed without action.
+        - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. <br>Issues with more than one reported bug may be closed without action.
 
         ### ✳️ All fields are required!
         - ❌ Issues lacking detail, or submitted for any other reason than to report a bug, may be closed without action.
