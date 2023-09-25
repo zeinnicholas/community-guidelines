@@ -5,11 +5,12 @@ body:
   - type: markdown
     attributes:
       value: |
+        ### 👋 Hello, welcome to the Elementor GitHub repository!
         # ⚠️ BEFORE POSTING YOUR ISSUE READ THIS CAREFULLY
         ### 🐞 Please create GitHub Issues only for Elementor Bug Reports.
         ### ❔ Need Help, Assistance, or Support? <ins>[CLICK HERE](https://elementor.com/help/how-to-submit-a-support-ticket/)</ins>
         ---
-        ### 🙏 Follow these best practices to help save time
+        ### 😉 Follow these best practices to help save time
         - ✒️ **Write a clear and concise title:** Summarize your issue in a short sentence that can help identify your issue at a glance.
 
         - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. <br>Tickets with more than one reported issue may be closed without action.
@@ -34,7 +35,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ---
         ### 💬 Provide a Detailed Description
         - Please Describe the problem in detail, and provide examples, screenshots, screen recordings, and related links.
   - type: textarea
@@ -47,7 +47,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ---
         ### 👣 Steps to Reproduce
         - List all the steps needed to reproduce the issue in detail, so we can replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't explain it in full.
   - type: textarea
@@ -61,7 +60,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ---
         ### 🧮 Expected Behavior
         - Describe what is the expected behavior in detail to help identify the root of the issue.
   - type: textarea
@@ -75,7 +73,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ---
         ### 🕵️ Isolate the problem and Validate your issue
         - Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/).
         - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>In that case, use the support link at the top.
@@ -90,7 +87,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ---
         ### 💾 Elementor System Info
         - ⚠️ This field is **<ins>REQUIRED</ins>**.
         - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).
@@ -105,7 +101,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ---
         ### 📃 Agreement
         - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close issues that do not comply with these guidelines without any warning.
   - type: checkboxes
@@ -115,3 +110,8 @@ body:
       options:
          - label: "I agree that my issue may be closed without any action if it doesn't follow all the requirements."
            required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### Thank you for contributing and helping shape the future of Elementor! 🙏
