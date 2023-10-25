@@ -25,8 +25,7 @@ body:
 
         # THE REQUEST
         ### 📋 Prerequisites
-        - 🔍 **Search Before Posting:** Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates. <br>
-        If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/features).
+        - 🔍 **Search Before Posting:** Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates. <br>If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/features).
   - type: checkboxes
     id: prerequisites
     attributes:
