@@ -45,7 +45,7 @@ body:
               <br>
 
               ### 💬 Provide a Detailed Description
-              - Please Describe the problem in detail, and provide examples, screenshots, screen recordings, and related links.
+              - Please Describe the problem in detail, and provide examples, screenshots, and related links.
     - type: textarea
       id: description
       validations:
@@ -59,7 +59,7 @@ body:
               <br>
 
               ### 👣 Steps to Reproduce
-              - List all the steps needed to reproduce the issue in detail for us to replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't completely explain all the steps to replicate your issue.
+              - List all the steps needed to reproduce the issue in detail for us to replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't completely explain all the steps to replicate your issue. Try sharing a screen recording, it helps a lot!
     - type: textarea
       id: steps_to_reproduce
       validations:
