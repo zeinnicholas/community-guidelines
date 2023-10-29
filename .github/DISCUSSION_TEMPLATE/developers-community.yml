@@ -3,9 +3,9 @@ body:
       attributes:
           value: |
               ### 👋 Hello, welcome to the Elementor Developers Community!
-              ## ⚠️ BEFORE POSTING READ THIS CAREFULLY
+              # ⚠️ BEFORE POSTING READ THIS CAREFULLY
               ### 🌐 Please only use this form to discuss with other developers about extending Elementor core and creating your own Addons.
-              #### Keep in mind that we're unable to offer any kind of support, manage bug reports, and feature requests or handle direct company contacts through this Discussion Category.
+              #### ⛔ Keep in mind that we're unable to offer any kind of support, manage bug reports, and feature requests or handle direct company contacts through this Discussion Category.
               For those, we kindly ask you to use the appropriate channels.
 
               #### ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing).
