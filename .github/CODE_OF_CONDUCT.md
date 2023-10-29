@@ -7,7 +7,7 @@
 
 In the interest of fostering an open, inclusive, and welcoming environment, we strive to maintain in all collaborative spaces a harassment-free experience for everyone, regardless of experience level, ability, disability, socioeconomic status, age, appearance, nationality, ethnicity, gender identity, sexual orientation, or religion.
 
-This code of conduct outlines our expectations for all those who participate in any thread, as well as the consequences of unacceptable behavior.
+This Code of Conduct outlines our expectations for all those who participate in any thread, as well as the consequences of unacceptable behavior.
 
 We invite all those who participate to help us create safe and positive experiences for everyone.
 
