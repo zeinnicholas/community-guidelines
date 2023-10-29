@@ -59,7 +59,7 @@ body:
               <br>
 
               ### 👣 Steps to Reproduce
-              List all the steps needed to reproduce the issue in detail for us to replicate the issue in our own environment. 
+              Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our own environment. 
               Be thorough, we won't be able to reproduce it if you don't completely explain all the steps to replicate your issue. 
               If possible, **share a screen recording**. It helps a lot!
     - type: textarea
