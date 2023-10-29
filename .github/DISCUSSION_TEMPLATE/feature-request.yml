@@ -1,0 +1,95 @@
+labels: ["status/awaiting_triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 👋 Hello, welcome to the Elementor GitHub Discussions!
+        # ⚠️ BEFORE POSTING YOUR REQUEST READ THIS CAREFULLY
+        ### 🚀 Please create Discussions only for Elementor Feature Requests.
+        ### ❔ Need Help, Assistance, or Support? <ins>[CLICK HERE](https://elemn.to/support-ticket)</ins>
+        ### 🐞 Need to Report a Bug? <ins>[CLICK HERE](https://elemn.to/gh-new-bug-report)</ins>
+        <br>
+
+        ### 😉 Follow these best practices to help save time
+        - ✒️ **Write a Clear and Concise Title:** Summarize your title in a short sentence that can help identify your request at a glance.
+        - ☝️ **One Request Per Thread:** If you have more than one request, please submit only **<ins>ONE REQUEST PER THREAD</ins>**. <br>Requests with more than one subject may be closed without action.
+        <br>
+        
+
+        ### ✳️ Fill-in all required fields!
+        - ❌ Requests lacking detail, or submitted for any other reason than to suggest new ideas, features, or enhancements for the Elementor plugin, may be closed without action.
+        <br>
+        
+        ---
+        <br>
+
+        # THE REQUEST
+        ### 📋 Prerequisites
+        - 🔍 **Search Before Posting:** Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates. <br>If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/features).
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: "Prerequisites"
+      options:
+        - label: "I have searched for similar feature requests in both open and closed discussions and cannot find a duplicate."
+          required: true
+        - label: "The feature is still missing in the latest stable version of Elementor or Elementor Pro"
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+        ### 💬 Provide a Detailed Description
+        - Please explain in detail what your suggested idea is going to solve. If possible provide examples, screenshots, screen recordings, and related links. 
+        - Then describe the solution you'd like to be implemented.
+        - Lastly describe the alternatives you've considered or any additional information to give context to your request.
+  - type: textarea
+    id: the_problem
+    validations:
+      required: true
+    attributes:
+      label: "What problem is your feature request going to solve? Please describe."
+      description: "Help everyone understand in detail what is "
+      placeholder: "I'm always frustrated when ..."
+  - type: textarea
+    id: the_solution
+    validations:
+      required: true
+    attributes:
+      label: "Describe the solution you'd like"
+      description: "A clear and concise description of what you want to happen."
+      placeholder: "It would be nice if ..."
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Describe alternatives you've considered"
+      description: "A clear and concise description of any alternative solutions or features you've considered."
+      placeholder: "I can also be solved by ..."
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "Additional context"
+      description: "Add any other context or screenshots about the feature request here."
+      placeholder: "N.B ..."
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+        
+        ### 📃 Agreement
+        - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close requests that do not comply with these guidelines without any warning.
+  - type: checkboxes
+    id: final_agreement
+    attributes:
+      label: "Agreement"
+      options:
+         - label: "I agree that my request may be closed without any action if it doesn't fulfill all the requirements."
+           required: true
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+        
+        ---
+        ### Thank you for contributing and helping shape the future of Elementor! 🙏

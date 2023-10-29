@@ -1,5 +1,5 @@
 name: "🐞 Bug Report"
-description: "Did you find a bug on Elementor and can reproduce it consistently? Report it here."
+description: "Did you find a bug in the source code of Elementor and can reproduce it consistently after troubleshooting it? Report it here."
 labels: ["status/awaiting_triage"]
 body:
   - type: markdown
@@ -8,12 +8,12 @@ body:
         ### 👋 Hello, welcome to the Elementor GitHub repository!
         # ⚠️ BEFORE POSTING YOUR ISSUE READ THIS CAREFULLY
         ### 🐞 Please create GitHub Issues only for Elementor Bug Reports.
-        ### ❔ Need Help, Assistance, or Support? <ins>[CLICK HERE](https://elementor.com/help/how-to-submit-a-support-ticket/)</ins>
-        ### 🔧 Troubleshoot your problem. <ins>[START TROUBLESHOOTING](https://elementor.com/help/search/?q=troubleshooting)</ins>
+        ### ❔ Need Help, Assistance, or Support? <ins>[Click here to get support](https://elemn.to/support-ticket)</ins>
+        ### 🔧 Troubleshoot your problem. <ins>[Click here to start troubleshooting](https://elementor.com/help/search/?q=troubleshooting)</ins>
         <br>
         
         ### 😉 Follow these best practices to help save time
-        - ✒️ **Write a Clear and Concise Title:** Summarize your issue in a short sentence that can help identify your issue at a glance.
+        - ✒️ **Write a Clear and Concise Title:** Summarize your title in a short sentence that can help identify your issue at a glance.
         - ☝️ **One Issue per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**. <br>Issues with more than one reported bug may be closed without action.
         <br>
         
@@ -28,7 +28,7 @@ body:
         
         # THE ISSUE
         ### 📋 Prerequisites
-        - 🔍 **Search Before Posting:** Please [search for similar issues](https://elemn.to/GitHub) (both open and closed) to prevent creating duplicates.
+        - 🔍 **Search Before Posting:** Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates.
         - 🆕 **Stay Up-to-date:** Make sure you are using the **<ins>most recent and stable versions</ins>** of all plugins, themes, and WordPress.
   - type: checkboxes
     id: prerequisites
@@ -37,7 +37,7 @@ body:
       options:
         - label: "I have searched for similar issues in both open and closed tickets and cannot find a duplicate."
           required: true
-        - label: "The issue still exists against the latest stable version of Elementor."
+        - label: "I have troubleshooted my issue, and it still exists against the latest stable version of Elementor."
           required: true
   - type: markdown
     attributes:
