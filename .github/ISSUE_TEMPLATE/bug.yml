@@ -28,8 +28,8 @@ body:
 
               # THE ISSUE
               ### 📋 Prerequisites
-              - 🔍 **Search Before Posting** <br>Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates.
-              - 🆕 **Stay Up-to-date** <br>Make sure you are using the **<ins>most recent and stable versions</ins>** of all plugins, themes, and WordPress.
+              🔍 **Search Before Posting** <br>Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates.
+              🆕 **Stay Up-to-date** <br>Make sure you are using the **<ins>most recent and stable versions</ins>** of all plugins, themes, and WordPress.
     - type: checkboxes
       id: prerequisites
       attributes:
@@ -45,7 +45,7 @@ body:
               <br>
 
               ### 💬 Provide a Detailed Description
-              - Please Describe the problem in detail, and provide examples, screenshots, and related links.
+              Please Describe the problem in detail, and provide examples, screenshots, and related links.
     - type: textarea
       id: description
       validations:
@@ -59,7 +59,8 @@ body:
               <br>
 
               ### 👣 Steps to Reproduce
-              - List all the steps needed to reproduce the issue in detail for us to replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't completely explain all the steps to replicate your issue. Try sharing a screen recording, it helps a lot!
+              List all the steps needed to reproduce the issue in detail for us to replicate the issue in our own environment. 
+              Be thorough, we won't be able to reproduce it if you don't completely explain all the steps to replicate your issue. Try sharing a screen recording, it helps a lot!
     - type: textarea
       id: steps_to_reproduce
       validations:
@@ -74,7 +75,7 @@ body:
               <br>
 
               ### 🧐 Expected Behavior
-              - Describe what is the expected behavior in detail to help identify the root of the issue.
+              Describe what is the expected behavior in detail to help identify the root of the issue.
     - type: textarea
       id: expected_behavior
       validations:
@@ -90,7 +91,8 @@ body:
 
               ### 🕵️ Isolate the problem and Validate your issue
               - Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/).
-              - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>**In that case, use the support link at the top.**
+              - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. 
+              **If that's the case, use the [support link](https://elemn.to/support-ticket) at the top.**
     - type: checkboxes
       id: isolating_the_problem
       attributes:
@@ -105,8 +107,9 @@ body:
               <br>
 
               ### 💾 Elementor System Info
-              - ⚠️ This field is **<ins>REQUIRED</ins>**.
-              - Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
+              ⚠️ This field is **<ins>REQUIRED</ins>**.
+              Please copy & paste the **<ins>FULL Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). 
+              **We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
     - type: textarea
       id: system_info
       validations:
@@ -122,7 +125,8 @@ body:
               <br>
 
               ### 📃 Agreement
-              - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>**We reserve the right to close issues that do not comply with these guidelines without any action.**
+              ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. 
+              **We reserve the right to close issues that do not comply with these guidelines without any action.**
     - type: checkboxes
       id: final_agreement
       attributes:
