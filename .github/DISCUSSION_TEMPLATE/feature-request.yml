@@ -33,7 +33,7 @@ body:
           options:
               - label: "I have searched for similar feature requests in both open and closed discussions and cannot find a duplicate."
                 required: true
-              - label: "The feature is still missing in the latest stable versions of Elementor or Elementor Pro"
+              - label: "The feature is still missing in the latest stable versions of Elementor or Elementor Pro."
                 required: true
     - type: markdown
       attributes:
@@ -41,8 +41,8 @@ body:
               <br>
 
               ### 💬 Provide a Detailed Description
-              1. Please explain in detail what your idea is going to solve. 
-              2. Describe how you'd like your solution to be implemented.
+              1. Please explain in detail what problem your idea is going to solve. 
+              2. Describe how you'd like a solution to be implemented.
               3. Describe the alternatives you've considered or any additional information to give context to your request.
               4. If possible provide examples, screenshots, screen recordings, and related links to give context to your suggestion.
     - type: textarea
@@ -51,7 +51,7 @@ body:
           required: true
       attributes:
           label: "What problem is your feature request going to solve? Please describe."
-          description: "Help everyone understand in detail what problem you are trying to solve."
+          description: "Help everyone understand in detail what problems you are trying to solve."
           placeholder: "I'm always frustrated when ..."
     - type: textarea
       id: the_solution
@@ -59,20 +59,20 @@ body:
           required: true
       attributes:
           label: "Describe the solution you'd like."
-          description: "A clear and concise description of what you want to happen."
+          description: "Help everyone understand in a clear and concise description what you want to happen."
           placeholder: "It would be nice if ..."
     - type: textarea
       id: alternatives
       attributes:
           label: "Describe alternatives you've considered."
-          description: "A clear and concise description of any alternative solutions or features you've considered."
+          description: "Give examples of any alternative solutions or features you've considered."
           placeholder: "It can also be solved by ..."
     - type: textarea
       id: additional_context
       attributes:
           label: "Additional context"
-          description: "Add any other context or screenshots about the feature request here."
-          placeholder: "N.B ..."
+          description: "Add any other context, references, or illustrations about the feature request here."
+          placeholder: "Here's an example of ..."
     - type: markdown
       attributes:
           value: |
