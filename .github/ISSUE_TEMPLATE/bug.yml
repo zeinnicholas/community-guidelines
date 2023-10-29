@@ -112,7 +112,7 @@ body:
       validations:
           required: true
       attributes:
-          label: "System Info"
+          label: "Elementor System Info"
           description: "Redact or remove sensitive information (admin email, website links, or root paths) if necessary. Don't remove other information as these are vital for understanding your problem and recreating it correctly."
           placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
           render: txt
