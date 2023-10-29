@@ -98,7 +98,7 @@ body:
           options:
               - label: "This bug happens with only Elementor and Elementor Pro plugins active."
               - label: "This bug happens with the Hello Elementor theme active."
-              - label: "I can reproduce this bug consistently following the steps above."
+              - label: "I can reproduce this bug consistently following the steps I described above."
     - type: markdown
       attributes:
           value: |
