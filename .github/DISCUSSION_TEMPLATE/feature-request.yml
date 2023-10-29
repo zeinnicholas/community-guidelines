@@ -46,7 +46,7 @@ body:
               - Please explain in detail what problem your idea is going to solve. (Required)
               - Describe how you'd like a solution to be implemented. (Required)
               - Give examples of alternative solutions you've considered.
-              - Add context to your suggestion by providing examples, screenshots, screen recordings, and related links and any additional information.
+              - Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and any additional information.
     - type: textarea
       id: the_problem
       validations:
