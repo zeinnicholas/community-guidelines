@@ -1,11 +1,11 @@
 # Code of Conduct
-# <p><a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=code-of-conduct">![logo](https://user-images.githubusercontent.com/1778512/191041718-728d179e-07cb-4cb4-953a-6c294ee8c4db.png)</a></p>
+# <a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=code-of-conduct">![logo](https://user-images.githubusercontent.com/1778512/191041718-728d179e-07cb-4cb4-953a-6c294ee8c4db.png)</a>
 
 **This is a collaborative space for developers, enthusiasts, and users alike to contribute, share ideas, and help shape the future of Elementor.**
 
-## The Purpose of this space
+## Our Pledge
 
-In the interest of fostering an open, inclusive, and welcoming environment, we strive to maintain in all collaborative spaces a harassment-free experience for everyone, regardless of age, disability, ethnicity, gender identity, sexual orientation, ability, experience level, socioeconomic status, nationality, appearance, race, or religion.
+In the interest of fostering an open, inclusive, and welcoming environment, we strive to maintain in all collaborative spaces a harassment-free experience for everyone, regardless of experience level, ability, disability, socioeconomic status, age, appearance, nationality, ethnicity, gender identity, sexual orientation, or religion.
 
 This code of conduct outlines our expectations for all those who participate in any thread, as well as the consequences of unacceptable behavior.
 
