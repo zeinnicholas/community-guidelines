@@ -59,7 +59,7 @@ body:
               <br>
 
               ### 👣 Steps to Reproduce
-              - List all the steps needed to reproduce the issue in detail, so we can replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't explain it in full.
+              - List all the steps needed to reproduce the issue in detail for us to replicate the issue in our own environment. <br>Be thorough, we won't be able to reproduce it if you don't completely explain all the steps to replicate your issue.
     - type: textarea
       id: steps_to_reproduce
       validations:
