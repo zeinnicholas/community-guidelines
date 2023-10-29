@@ -1,0 +1,38 @@
+body:
+    - type: markdown
+      attributes:
+          value: |
+              ### 👋 Hello, welcome to Elementor Developers Community!
+              # ⚠️ BEFORE POSTING READ THIS CAREFULLY
+              ### 🌐 Please only use this form to discuss with other developers about extending Elementor.
+              Keep in mind that we're unable to manage bug reports, and feature requests or handle direct company contacts through this Discussion Category.
+              For those, we kindly ask you to use the appropriate channels.
+              <br>
+
+              ### Developers Center
+              - 📚 Get technical information and read Elementor's Developers Documentation. [Visit our Developers Center](https://elemn.to/dev-center).
+              - 📰 Want to know about the latest Elementor developments? [View the latest Elementor Dev News](https://elemn.to/devnews**).
+              - 💻 Learn how to extend Elementor core to create your own Addons. [Read the Documentation](https://elemn.to/dev-docs).
+              - 🔄️ Subscribe to the Developers Newsletter. [Stay in the Loop](https://elemn.to/devloop**).
+              <br>
+
+              ### More useful resources
+              - 🛟 **Get Support:** Need Help, Guidance, Assistance, or Support? [Click here to get support](https://elemn.to/support-ticket).
+              - 📖 **Contributing Guidelines:** Before filing a bug report, a feature request or sending pull requests, be sure to [read the Contribution Guidelines](https://elemn.to/gh-contributing).
+              - 🤝 **Code of Conduct:** To foster a safe, open, and welcoming environment, we have a [Code of Conduct](https://elemn.to/gh-code-of-conduct) that should be followed by all participants.
+              - 🐞 **Report a Bug:** Did you find a bug in the source code of Elementor and can reproduce it consistently after troubleshooting it? [Click here to report a bug](https://elemn.to/gh-new-bug-report).
+              - 🚩 **Elementor Roadmap:** [Visit the Elementor Roadmap](https://elemn.to/roadmap) to learn about what he have in store for the future.
+              - 🚀 **Request a Feature:** Suggest new ideas, features, or enhancements for the Elementor plugin. [Click here to submit your Feature Request](https://elemn.to/gh-new-feature-request).
+              - 🎓 **Elementor Academy:** Learn everything you need to know about using Elementor. [Visit the Elementor Academy](https://elemn.to/academy).
+              - 🗨️ **Elementor Global Community:** The main Facebook group where all kinds of users come together to help each other. [Join the Elementor Global Community](https://elemn.to/fb)
+
+              ---
+              ### 🙏 Thank you for your time! 
+              We're excited to learn from your contributions and discussions in this lively and engaging community space!
+    - type: textarea
+      id: description
+      validations:
+          required: true
+      attributes:
+          label: "Description"
+          description: "Ask a question, start a conversation, or share your knowledge"

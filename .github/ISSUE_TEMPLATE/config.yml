@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
     - name: 🛟 Get Support
       url: https://elemn.to/support-ticket
-      about: Need Help, Assistance, or Support? Follow these instructions.
+      about: Need Help, Guidance, Assistance, or Support? Follow these instructions.
     - name: 📖 Contributing Guidelines
       url: https://elemn.to/gh-contributing
       about: Before filing a bug report, a feature request or sending pull requests, be sure to read the Contribution Guidelines.
