@@ -44,8 +44,8 @@ body:
               ### 💬 Provide a Detailed Description
               - Please explain in detail what problem your idea is going to solve. 
               - Describe how you'd like a solution to be implemented.
-              - Describe the alternatives you've considered or any additional information you'd like to share.
-              - Give context to your suggestion by providing examples, screenshots, screen recordings, and related links as additional information.
+              - Give examples of alternative solutions you've considered.
+              - Add context to your suggestion by providing examples, screenshots, screen recordings, and related links and any additional information.
     - type: textarea
       id: the_problem
       validations:
