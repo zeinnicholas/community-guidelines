@@ -3,7 +3,7 @@ body:
     - type: markdown
       attributes:
           value: |
-              ### 👋 Hello, welcome to the Elementor Feature Requests!
+              ### 👋 Hello, welcome to Elementor Feature Requests!
               # ⚠️ BEFORE POSTING YOUR REQUEST READ THIS CAREFULLY
               ### 🚀 Please only use this form to request an Elementor plugin feature.
               🚩 Check our [Roadmap](https://elemn.to/roadmap) to learn what's in the pipeline.
