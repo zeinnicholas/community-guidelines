@@ -6,7 +6,7 @@ body:
       attributes:
           value: |
               ### 👋 Hello, welcome to the Elementor GitHub repository!
-              # ⚠️ BEFORE POSTING YOUR ISSUE READ THIS CAREFULLY
+              # ⚠️ BEFORE POSTING READ THIS CAREFULLY
               ### 🐞 Please only use this form to report validated Elementor Bugs.
               ### 🛟 Need Help, Guidance, Assistance, or Support? <ins>[Click here to get support](https://elemn.to/support-ticket)</ins>.
               ### 🔧 Before submitting your issue, troubleshoot your problem to validate it. <ins>[Click here to start troubleshooting](https://elementor.com/help/search/?q=troubleshooting)</ins>.
