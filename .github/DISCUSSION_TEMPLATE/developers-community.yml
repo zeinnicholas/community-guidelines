@@ -2,7 +2,7 @@ body:
     - type: markdown
       attributes:
           value: |
-              ### 👋 Hello, welcome to Elementor Developers Community!
+              ### 👋 Hello, welcome to the Elementor Developers Community!
               # ⚠️ BEFORE POSTING READ THIS CAREFULLY
               ### 🌐 Please only use this form to discuss with other developers about extending Elementor core and creating your own Addons.
               #### Keep in mind that we're unable to manage bug reports, and feature requests or handle direct company contacts through this Discussion Category.
