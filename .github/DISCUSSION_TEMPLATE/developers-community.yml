@@ -4,8 +4,8 @@ body:
           value: |
               ### 👋 Hello, welcome to the Elementor Developers Community!
               # ⚠️ BEFORE POSTING READ THIS CAREFULLY
-              ### 🌐 Please only use this form to discuss with other developers about extending Elementor core and creating your own Addons.
-              #### Keep in mind that we're unable to offer any kind of support, manage bug reports, and feature requests or handle direct company contacts through this Discussion Category.
+              ## 🌐 Please only use this form to discuss with other developers about extending Elementor core and creating your own Addons.
+              ### Keep in mind that we're unable to offer any kind of support, manage bug reports, and feature requests or handle direct company contacts through this Discussion Category.
               For those, we kindly ask you to use the appropriate channels.
 
               ### ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing).
@@ -17,7 +17,7 @@ body:
               - 🔄️ Subscribe to the Developers Newsletter. <br>[Stay in the Loop](https://elemn.to/devloop**).
 
               ---
-              ### 🙏 Thank you for your time! 
+              ### 🙏 Thank you for joining this community! 
               We're excited to learn from your contributions and discussions in this lively and engaging community space!
     - type: textarea
       id: description
