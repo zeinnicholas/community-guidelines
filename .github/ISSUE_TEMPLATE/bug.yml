@@ -121,7 +121,7 @@ body:
               <br>
 
               ### 📃 Agreement
-              - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close issues that do not comply with these guidelines without any warning.
+              - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close issues that do not comply with these guidelines without any action.
     - type: checkboxes
       id: final_agreement
       attributes:
