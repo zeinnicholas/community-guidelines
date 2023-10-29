@@ -1,5 +1,5 @@
 # Code of Conduct
-# <a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=code-of-conduct">![logo](https://user-images.githubusercontent.com/1778512/191041718-728d179e-07cb-4cb4-953a-6c294ee8c4db.png)</a>
+# <p><a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=code-of-conduct">![logo](https://user-images.githubusercontent.com/1778512/191041718-728d179e-07cb-4cb4-953a-6c294ee8c4db.png)</a></p>
 
 **This is a collaborative space for developers, enthusiasts, and users alike to contribute, share ideas, and help shape the future of Elementor.**
 
