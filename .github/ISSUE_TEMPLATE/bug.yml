@@ -91,8 +91,8 @@ body:
               <br>
 
               ### 🕵️ Isolate the problem and Validate your issue
-              1. Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/).
-              2. If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>**If that's the case, use the [support link](https://elemn.to/support-ticket) at the top.**
+              1. Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to the [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/).
+              2. If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>**In that case, use the [support link](https://elemn.to/support-ticket) at the top.**
     - type: checkboxes
       id: isolating_the_problem
       attributes:
@@ -107,8 +107,8 @@ body:
               <br>
 
               ### 💾 Elementor System Info
-              ⚠️ **<ins>This field is REQUIRED</ins>**
-              Please copy & paste the <ins>FULL Elementor System Info</ins> report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). 
+              #### ⚠️ <ins>This field is REQUIRED</ins>
+              - Please copy & paste the **<ins>full Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). 
               - **We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
     - type: textarea
       id: system_info
