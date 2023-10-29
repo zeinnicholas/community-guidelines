@@ -42,7 +42,7 @@ body:
               <br>
 
               ### 💬 Provide a Detailed Description
-              Please Describe the problem in detail, and provide examples, screenshots, and related links.
+              Please describe the problem in detail, provide examples, screenshots, and related links.
     - type: textarea
       id: description
       validations:
@@ -90,7 +90,7 @@ body:
               ### 🕵️ Isolate the problem and Validate your issue
               Deactivate all plugins _**except Elementor (and Elementor Pro)**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
               - **Test your issue** to verify if it happens when only the Elementor (and Elementor Pro) plugins are active while also using the Hello Elementor theme.
-              - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>In that case, use the **[support link](https://elemn.to/support-ticket)** at the top of this form, or **[troubleshoot your issue again](https://elemn.to/help-troubleshooting)**.
+              - If the issue can't be recreated consistently or reproduced following the steps above, it's likely **not an Elementor bug**. <br>In that case, use the **[support link](https://elemn.to/support-ticket)** at the top of this form, or **[troubleshoot your issue again](https://elemn.to/help-troubleshooting)**.
     - type: checkboxes
       id: isolating_the_problem
       attributes:
@@ -106,15 +106,14 @@ body:
 
               ### 💾 Elementor System Info
               #### ⚠️ <ins>This field is REQUIRED</ins>
-              - Please copy & paste the **<ins>full Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). 
-              - **We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
+              - Please copy & paste the **<ins>full Elementor System Info</ins>** report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
     - type: textarea
       id: system_info
       validations:
           required: true
       attributes:
           label: "System Info"
-          description: "Redact or remove sensitive information if necessary (emails or root paths)."
+          description: "Redact or remove sensitive information (admin email, website links, or root paths) if necessary. Don't remove other information as these are vital for understanding your problem."
           placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
           render: txt
     - type: markdown
