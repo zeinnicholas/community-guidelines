@@ -5,10 +5,10 @@ body:
           value: |
               ### 👋 Hello, welcome to the Elementor GitHub Discussions!
               # ⚠️ BEFORE POSTING YOUR REQUEST READ THIS CAREFULLY
-              ### 🚀 Please only create Discussions in this category for Elementor Feature Requests.
-              🚩Check our [Roadmap](https://elemn.to/roadmap) to learn what's in the pipeline.
-              ### 🛟 Need Help, Assistance, or Support? <ins>[Click here to get Support](https://elemn.to/support-ticket)</ins>
-              ### 🐞 Need to Report a Bug? <ins>[Click here to Report a Bug](https://elemn.to/gh-new-bug-report)</ins>
+              ### 🚀 Please only use this form to request an Elementor plugin feature.
+              🚩 Check our [Roadmap](https://elemn.to/roadmap) to learn what's in the pipeline.
+              ### 🛟 Need Help, Guidance, Assistance, or Support? <ins>[Click here to get support](https://elemn.to/support-ticket)</ins>.
+              ### 🐞 Need to Report a Bug? <ins>[Click here to Report a Bug](https://elemn.to/gh-new-bug-report)</ins>.
               <br>
 
               ### 😉 Follow these best practices to help save time
@@ -32,9 +32,9 @@ body:
       attributes:
           label: "Prerequisites"
           options:
-              - label: "I have searched for similar feature requests in both open and closed discussions and cannot find a duplicate."
+              - label: "I have searched for similar feature requests in both open and closed discussions and cannot find a an existing request."
                 required: true
-              - label: "The feature is still missing in the latest stable versions of Elementor or Elementor Pro."
+              - label: "I have verified that the feature is still missing in the latest stable versions of Elementor or Elementor Pro."
                 required: true
     - type: markdown
       attributes:
@@ -42,10 +42,10 @@ body:
               <br>
 
               ### 💬 Provide a Detailed Description
-              1. Please explain in detail what problem your idea is going to solve. 
-              2. Describe how you'd like a solution to be implemented.
-              3. Describe the alternatives you've considered or any additional information to give context to your request.
-              4. If possible provide examples, screenshots, screen recordings, and related links to give context to your suggestion.
+              - Please explain in detail what problem your idea is going to solve. 
+              - Describe how you'd like a solution to be implemented.
+              - Describe the alternatives you've considered or any additional information to give context to your request.
+              - Give context to your suggestion by providing examples, screenshots, screen recordings, and related links as additional information.
     - type: textarea
       id: the_problem
       validations:
@@ -80,7 +80,7 @@ body:
               <br>
 
               ### 📃 Agreement
-              - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close requests that do not comply with these guidelines without any warning.
+              - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close requests that do not comply with these guidelines without any action.
     - type: checkboxes
       id: final_agreement
       attributes:
