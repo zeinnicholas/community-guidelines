@@ -91,8 +91,8 @@ body:
               <br>
 
               ### 🕵️ Isolate the problem and Validate your issue
-              1. Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
-              2. If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>**In that case, use the [support link](https://elemn.to/support-ticket) at the top.**
+              - Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
+              - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>**In that case, use the [support link](https://elemn.to/support-ticket) at the top of this form.**
     - type: checkboxes
       id: isolating_the_problem
       attributes:
