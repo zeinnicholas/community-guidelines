@@ -9,7 +9,7 @@ body:
               # ⚠️ BEFORE POSTING READ THIS CAREFULLY
               ## 🐞 Please only use this form to report validated Elementor Bugs.
               ### 🛟 Need Help, Guidance, Assistance, or Support? <br><ins>[Click here to get support](https://elemn.to/support-ticket)</ins>.
-              ### 🔧 Before submitting your issue, troubleshoot your problem. <br><ins>[Click here to start troubleshooting](https://elementor.com/help/search/?q=troubleshooting)</ins>.
+              ### 🔧 Before submitting your issue, troubleshoot your problem. <br><ins>[Click here to start troubleshooting](https://elemn.to/help-troubleshooting)</ins>.
               <br>
 
               ### 😉 Follow these best practices to help save time
@@ -59,7 +59,7 @@ body:
               <br>
 
               ### 👣 Steps to Reproduce
-              - Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our own environment. 
+              Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our own environment. 
               - Be thorough, we won't be able to reproduce your issue if you don't completely explain all the steps to replicate it. 
               - If possible, **share a screen recording**. It helps a lot!
     - type: textarea
@@ -91,8 +91,9 @@ body:
               <br>
 
               ### 🕵️ Isolate the problem and Validate your issue
-              - Deactivate all plugins _**except Elementor and Elementor Pro**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
-              - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>**In that case, use the [support link](https://elemn.to/support-ticket) at the top of this form.**
+              Deactivate all plugins _**except Elementor (and Elementor Pro)**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
+              - Test your issue to see if it happens when only the Elementor and Elementor Pro plugins are active, while also using the Hello Elementor theme.
+              - If the issue can't be recreated consistently or reproduced following the steps above, it's likely not an Elementor bug. <br>**In that case, use the [support link](https://elemn.to/support-ticket) at the top of this form**, or **[troubleshoot your issue again](https://elemn.to/help-troubleshooting)**.
     - type: checkboxes
       id: isolating_the_problem
       attributes:
