@@ -28,8 +28,8 @@ body:
 
               # THE ISSUE
               ### 📋 Prerequisites
-              - 🔍 **Search Before Posting** <br>Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates.
-              - 🆕 **Stay Up-to-date** <br>Make sure you are using the **<ins>most recent and stable versions</ins>** of all plugins, themes, and WordPress.
+              - 🔍 **Search Before Posting** <br>Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates. <br>Use [Labels](https://elemn.to/gh-labels) to refine your serach.
+              - 🆕 **Stay Up-to-date** <br>Make sure you are using the **<ins>[most recent and stable versions](https://elemn.to/changelog)</ins>** of Elementor and Elementor Pro, as well as all installed plugins, themes, and even WordPress.
     - type: checkboxes
       id: prerequisites
       attributes:
