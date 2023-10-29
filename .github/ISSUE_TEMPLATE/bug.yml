@@ -113,7 +113,7 @@ body:
           required: true
       attributes:
           label: "System Info"
-          description: "Redact sensitive data if necessary (emails, root paths, etc.)."
+          description: "Redact or remove sensitive information if necessary (emails or root paths)."
           placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
           render: txt
     - type: markdown
