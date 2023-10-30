@@ -22,7 +22,7 @@ Discover what's Next in Elementor. Visit the [Elementor Roadmap](https://elemn.t
 
 Elementor website builder is free and open source. It’s the perfect plugin to be extended and integrated further. It was created and developed with the developer in mind, and we have already seen some truly remarkable addons being developed.
 
-To help you get started and learn just how to integrate with Elementor, we have created the official [Elementor Developers Center](https://elemn.to/gh-to-dev-center). Check the [Developers Blog](https://elemn.to/gh-to-dev-blog) to discover the latest information from the programmers working on the newest Elementor versions, or visit the [Developers Documentation](https://elemn.to/gh-to-dev-docs) to learn how to extend Elementor core and create your Addons.
+To help you get started and learn just how to integrate with Elementor, we have created the official [Elementor Developers Center](https://elemn.to/gh-to-dev-center). Check the [Developers Blog](https://elemn.to/gh-to-dev-blog) to discover the latest information from our engineers working on the newest Elementor versions, or visit the [Developers Documentation](https://elemn.to/gh-to-dev-docs) to learn how to extend Elementor core and create your Addons.
 
 ### Developers Community
 
