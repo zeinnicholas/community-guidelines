@@ -43,7 +43,7 @@ Organize and submit your issues, discussions, and comments correctly:
 -   Submit [Issues](https://elemn.to/gh-issues) **only to report bugs.**
 -   Submit [Feature Request Discussions](https://elemn.to/gh-feature-requests) **only to request features.**
 -   Don't use any space to request support or to file complaints. <br>**Use the official Elementor support channels** instead.
--   **Search before submitting** new threads.
+-   **Search before submitting** new threads to avoid duplicates.
 -   **Troubleshoot** your issues before submitting a bug report.
 -   **Provide instant and thorough information** when requested.
 -   **Stay on topic** when commenting.
