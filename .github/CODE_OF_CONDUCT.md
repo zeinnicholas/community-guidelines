@@ -33,7 +33,7 @@ Our spaces are open for contributors with any experience level. Be receptive to 
 Criticize ideas, not people.
 <br>Explain your thoughts and keep discussions relevant to Elementor products. We don't engage in talks about politics, religion, or other unrelated topics.
 
-**Complaints about support, the Elementor company, its employees, other products, or anyone else will be removed at our discretion without warning.**
+**Heated, offensive, and off-topic discussions will be removed at our discretion without warning or requiring any explanation.**
 
 ### Keep it tidy
 
