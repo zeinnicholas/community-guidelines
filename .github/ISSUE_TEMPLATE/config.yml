@@ -11,13 +11,16 @@ contact_links:
       about: To foster a safe, open, and welcoming environment, we have a Code of Conduct that should be followed by all participants.
     - name: 🚩 Elementor Roadmap
       url: https://elemn.to/roadmap
-      about: efore submitting a request, check our Roadmap to see what we've been working on.
+      about: Before submitting a request, visit the Elementor Roadmap and learn about the status of upcoming or newly-released features.
     - name: 🚀 Feature Request
       url: https://elemn.to/gh-new-feature-request
       about: Suggest new ideas, features, or enhancements for the Elementor plugin.
+    - name: Help Center
+      url: https://elemn.to/help-center
+      about: Visit our Help Center to find solutions to the most frequent problems, or learn how to use Elementor's many features.
     - name: 🎓 Elementor Academy
       url: https://elemn.to/academy
-      about: Learn everything you need to know about using Elementor.
+      about: Grow your Web Creator skills and learn how to take the most of Elementor.
     - name: 🗨️ Elementor Global Community
       url: https://elemn.to/fb
       about: The main Facebook group where all kinds of users come together to help each other.
