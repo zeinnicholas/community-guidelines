@@ -39,16 +39,16 @@ Criticize ideas, not people.
 
 Organize and submit your issues, discussions, and comments correctly:
 
--   Always follow our Contribution Guidelines.
--   Submit Issues only to report bugs.
--   Submit Feature Request Discussions only to request features.
+-   Always follow our [Contribution Guidelines](https://elemn.to/gh-contributing).
+-   Submit [Issues](https://elemn.to/gh-issues) only to report bugs.
+-   Submit [Feature Request Discussions](https://elemn.to/gh-feature-requests) only to request features.
 -   Don't use any space to request support or to file complaints. <br>Use the official Elementor support channels instead.
 -   Search before creating new threads.
 -   Troubleshoot your issues before submitting a bug report.
--   Provide instant and thorough information when asked.
+-   Provide instant and thorough information when requested.
 -   Stay on topic when commenting.
 -   Don't use other issues or discussions to report different bugs or feature requests. <br>Instead, submit new ones or join the ones that are already open.
--   Instead of commenting "+1" or "Agreed," use the upvote button when available.
+-   Avoid commenting "+1" or "Agreed," use the upvote button when available.
 
 ## Expected behaviors
 
