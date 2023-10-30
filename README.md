@@ -29,9 +29,10 @@ Discover what's Next in Elementor. Visit the [Elementor Roadmap](https://elemn.t
 Elementor website builder is free and open source. It's the perfect plugin to extend and integrate further. It was created and developed with the developer in mind, and we have already seen some truly remarkable addons created.
 
 To help you get started and learn just how to integrate with Elementor, we have created the official [Elementor Developers Center](https://elemn.to/gh-to-dev-center).
-<br>Check the [Developers Blog](https://elemn.to/gh-to-dev-blog) to discover the latest information from our engineers working on the newest Elementor versions, or visit the [Developers Documentation](https://elemn.to/gh-to-dev-docs) to learn how to extend Elementor core and create your Addons.
 
-### Developers Community
+Check the [Developers Blog](https://elemn.to/gh-to-dev-blog) to discover the latest information from our engineers working on the newest Elementor versions, or visit the [Developers Documentation](https://elemn.to/gh-to-dev-docs) to learn how to extend Elementor core and create your Addons.
+
+#### Developers Community
 
 [Join our Developers Community](https://elemn.to/dev-community) and share tips, tricks, and knowledge with other developers about extending and developing Addons for Elementor.
 
@@ -41,19 +42,21 @@ Community contributions are always welcomed and help us remain the Number 1 Word
 
 There are many ways to contribute to Elementor:
 
-### Contribution Guidelines
+#### Contribution Guidelines
 
-Please read our [Contribution Guidelines](https://elemn.to/gh-contributing) to learn how to contribute to Elementor.
+Please read our [Contribution Guidelines](https://elemn.to/gh-contributing) to learn the best practices on how to contribute to Elementor.
 
 ### Bug Report
 
 If you found a bug in the source code and can reproduce it consistently after troubleshooting it, you can help us by [submitting a Bug Report](https://elemn.to/gh-new-bug-report).
-<br>Even better, you can [submit a Pull Request](https://elemn.to/gh-new-pr) with a fix, and we will happily review it.
+
+Even better, you can [submit a Pull Request](https://elemn.to/gh-new-pr) with a fix, and we will happily review it.
 
 ### Security Report
 
 Join our community-driven [Managed Security Bug Bounty program](https://elemn.to/bug-bounty).
-<br>We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope', reward specifics, and our complete terms and conditions.
+
+We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope', reward specifics, and our complete terms and conditions.
 
 To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
 
@@ -68,8 +71,7 @@ Suggest new ideas, features, or enhancements by [submitting a Feature Request](h
 
 The Elementor User Interface was designed with a global audience in mind. It supports a wide range of languages and is also RTL compatible. Out of the box, we offer support for over 60 languages.
 
-Want to make a difference? We would appreciate your contribution by adding a new language or helping translate existing ones at [translate.wordpress.org](https://elemn.to/transate-repo).
-<br>To assist you, we've built a short guide explaining [how to translate and localize the plugin](https://elemn.to/gh-to-help-localize-elementor).
+Want to make a difference? <br>We would appreciate your contribution by adding a new language or helping translate existing ones at [translate.wordpress.org](https://elemn.to/transate-repo). To assist you, we've built a short guide explaining [how to translate and localize the plugin](https://elemn.to/gh-to-help-localize-elementor).
 
 ## Support
 
@@ -77,12 +79,14 @@ Want to make a difference? We would appreciate your contribution by adding a new
 
 Use one of the support channels below to find solutions to your questions and get assistance.
 
-**Please note that we are unable to offer any support through this repository.**
-<br>For those, please use the appropriate channels.
+#### Note that we are unable to offer any support through this repository.
+
+Please **DO NOT** open issues or discussions to request support.
+<br>For those, use the appropriate channels.
 
 #### Find out how to [submit a Support Ticket here](https://elemn.to/support-ticket).
 
-Alternatively, you can visit one of the resources below:
+Alternatively, you can visit one of these resources:
 
 -   **Help Center** <br>Visit the [Elementor Help Center](https://elemn.to/gh-to-help-center) to find solutions to the most frequent problems, or read the documentation about Elementor's many features.
 -   **Academy** <br>Grow your Web Creator skills and learn to make the most of Elementor in the [Elementor Academy](https://elemn.to/gh-to-academy).
