@@ -41,7 +41,7 @@ Before contributing, please read our [Contribution Guidelines](https://elemn.to/
 ### Bug Report
 
 If you find a bug in the source code and can reproduce it consistently after troubleshooting it, you can help us by [submitting a Bug Report](https://elemn.to/gh-new-bug-report).
-Even better, you can [submit a Pull Request](https://elemn.to/gh-new-pr) with a fix, and we will happily review it.
+<br>Even better, you can [submit a Pull Request](https://elemn.to/gh-new-pr) with a fix, and we will happily review it.
 
 ### Security Report
 
@@ -53,13 +53,14 @@ To learn more about our security efforts, please visit our [Trust Center](https:
 
 Do you have a brilliant idea, enhancement, or a feature you'd love to see in Elementor? We're all ears!
 Suggest new ideas, features, or enhancements by [submitting a Feature Request](https://elemn.to/gh-new-feature-request).
-You can also show your support for existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
+<br>You can also show your support for existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
 
 ### Translate
 
 Elementor's User Interface is designed with a global audience in mind. It supports a wide range of languages, typographies, and is also RTL compatible. Out of the box, we offer support for over 60 languages.
+
 Want to make a difference? We'd appreciate your contribution by adding a new language or helping translate existing ones at [translate.wordpress.org](https://elemn.to/transate-repo).
-To assist you, we've built a short guide explaining [how to translate and localize the plugin](https://elemn.to/gh-to-help-localize-elementor).
+<br>To assist you, we've built a short guide explaining [how to translate and localize the plugin](https://elemn.to/gh-to-help-localize-elementor).
 
 ## Support
 
