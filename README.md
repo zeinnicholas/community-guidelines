@@ -62,7 +62,7 @@ Want to make a difference? We'd appreciate your contribution by adding a new lan
 
 ### Need Help, Guidance, Assistance, or Support?
 
-Use one of the Support Channels offered by Elementor to find a solution to your questions and get the assistance you need.
+Use one of the support channels offered by Elementor to find a solution to your questions and get the assistance you need.
 
 #### Please note that we are unable to offer any kind of support through this repository.
 
