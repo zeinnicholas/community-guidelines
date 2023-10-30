@@ -90,10 +90,10 @@ Alternatively, you can visit one of the resources below:
 -   **Support Forum** <br>If you have more questions, visit our support on the [Plugin's Forum](https://elemn.to/wp-support-forum).
 -   **Elementor Website** <br>For more information about features, FAQs, and documentation, check out our website at [Elementor Website Builder](https://elemn.to/gh-to-elementor).
 
-**If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled for personal support, please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
+**If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
 
 ## Liked Elementor?
 
 -   Join the [Elementor Global Community](https://elemn.to/community-on-fb) on Facebook.
 -   Learn from our tutorials on [Elementor's YouTube Channel](https://elemn.to/yt).
--   Or [rate us on WordPress](https://wordpress.org/support/plugin/elementor/reviews/?filter=5/#new-post), it would mean the world to us! :)
+-   Or [rate us on WordPress](https://wordpress.org/support/plugin/elementor/reviews/?filter=5/#new-post). It would mean the world to us! :)
