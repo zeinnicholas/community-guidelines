@@ -46,6 +46,8 @@ If you find a bug in the source code and can reproduce it consistently after tro
 
 Join our community-driven [Managed Security Bug Bounty program](https://elemn.to/bug-bounty). We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered ‘in scope’, reward specifics, and our complete terms and conditions.
 
+To learn more about our security efforts, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
+
 ### Feature Request
 
 Do you have a brilliant idea, enhancement, or a feature you'd love to see in Elementor? We're all ears!
