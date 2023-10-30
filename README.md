@@ -44,7 +44,7 @@ There are many ways to contribute to Elementor:
 
 #### Contribution Guidelines
 
-Please read our [Contribution Guidelines](https://elemn.to/gh-contributing) to learn the best practices on how to contribute to Elementor.
+Please read our [Contribution Guidelines](https://elemn.to/gh-contributing) to learn the best practices for contributing to Elementor.
 
 ### Bug Report
 
