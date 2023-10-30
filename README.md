@@ -51,7 +51,8 @@ To learn more about our security efforts, please visit our [Trust Center](https:
 ### Feature Request
 
 Do you have a brilliant idea, enhancement, or a feature you'd love to see in Elementor? We're all ears!
-Suggest new ideas, features, or enhancements by [submitting a Feature Request](https://elemn.to/gh-new-feature-request). You can also show your support for existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
+Suggest new ideas, features, or enhancements by [submitting a Feature Request](https://elemn.to/gh-new-feature-request).
+You can also show your support for existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
 
 ### Translate
 
