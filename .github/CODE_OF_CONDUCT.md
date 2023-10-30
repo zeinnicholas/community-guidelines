@@ -22,7 +22,7 @@ To ensure everyone has a good, welcoming, and positive experience, we outlined a
 
 We embrace healthy conversations but don't tolerate behavior that disrespects or discriminates against other contributors or maintainers. Be aware of diverse backgrounds and perspectives.
 
-Let's make this a safe space for anyone to contribute and share ideas.
+**Let's make this a safe space for anyone to contribute and share ideas.**
 
 ### Be Welcoming and Open-minded
 
@@ -33,7 +33,7 @@ Our spaces are open for contributors with any experience level. Be receptive to 
 Criticize ideas, not people.
 <br>Explain your thoughts and keep discussions relevant to Elementor products. We don't engage in talks about politics, religion, or other unrelated topics.
 
-Complaints about support, the Elementor company, its employees, other products, or anyone else will be removed at our discretion without warning.
+**Complaints about support, the Elementor company, its employees, other products, or anyone else will be removed at our discretion without warning.**
 
 ### Keep it tidy
 
@@ -65,7 +65,7 @@ Our maintainers will enforce these guidelines and take fair action if necessary.
 
 We reserve the right to close, lock, or remove any thread or comment at any time without warning or explanation. Continuing inappropriate behavior will result in a permanent ban at our discretion.
 
-This Code of Conduct applies to all Elementor GitHub pages and spaces, including but not limited to Issues and Discussions.
+**This Code of Conduct applies to all Elementor GitHub pages and spaces, including but not limited to Issues and Discussions.**
 
 If you wish to file a complaint, please [reach out to Elementor Support](https://elemn.to/contact).
 
