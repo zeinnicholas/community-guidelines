@@ -56,7 +56,7 @@ Even better, you can [submit a Pull Request](https://elemn.to/gh-new-pr) with a 
 
 Join our community-driven [Managed Security Bug Bounty program](https://elemn.to/bug-bounty).
 
-We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope', reward specifics, and our complete terms and conditions.
+We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope,' reward specifics, and our complete terms and conditions.
 
 To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
 
