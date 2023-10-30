@@ -26,7 +26,7 @@ Discover what's Next in Elementor. Visit the [Elementor Roadmap](https://elemn.t
 
 ## Developer API
 
-Elementor website builder is free and open source. It's the perfect plugin to extend and integrate further. It was created and developed with the developer in mind, and we have already seen some truly remarkable addons created.
+Elementor website builder is free and open source. It's the perfect plugin to extend and integrate further. It was envisioned with the developer in mind, and we have already seen some truly remarkable addons created by many skilled developers.
 
 To help you get started and learn just how to integrate with Elementor, we have created the official [Elementor Developers Center](https://elemn.to/gh-to-dev-center).
 
