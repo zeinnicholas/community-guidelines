@@ -11,7 +11,7 @@ contact_links:
       about: To foster a safe, open, and welcoming environment, we have a Code of Conduct that should be followed by all participants.
     - name: 🚩 Elementor Roadmap
       url: https://elemn.to/roadmap
-      about: Before submitting a request, check our Roadmap to see if it's already underway or has been released.
+      about: efore submitting a request, check our Roadmap to see what we've been working on.
     - name: 🚀 Feature Request
       url: https://elemn.to/gh-new-feature-request
       about: Suggest new ideas, features, or enhancements for the Elementor plugin.
