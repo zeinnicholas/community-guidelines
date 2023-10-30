@@ -52,6 +52,7 @@ To learn more about our security efforts, please visit our [Trust Center](https:
 ### Feature Request
 
 Do you have a brilliant idea, enhancement, or a feature you'd love to see in Elementor? We're all ears!
+
 Suggest new ideas, features, or enhancements by [submitting a Feature Request](https://elemn.to/gh-new-feature-request).
 <br>You can also show your support for existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
 
@@ -66,24 +67,26 @@ Want to make a difference? We'd appreciate your contribution by adding a new lan
 
 ### Need Help, Guidance, Assistance, or Support?
 
-Use one of the support channels offered by Elementor to find a solution to your questions and get the assistance you need.
+Use one of the support channels offered by Elementor to find solutions to your questions and get the assistance you need.
 
-#### Please note that we are unable to offer any kind of support through this repository.
+**Please note that we are unable to offer any kind of support through this repository.**
+<br>For those, we kindly ask you to use the appropriate channels.
 
-For those, we kindly ask you to use the appropriate channels.
+#### Find out how to [submit a Support Ticket here](https://elemn.to/support-ticket).
 
-#### Find out how to [submit a Support Ticket](https://elemn.to/support-ticket).
+Alternatively, you can visit one of the resources below:
 
 -   **Help Center** <br>Visit the [Elementor Help Center](https://elemn.to/gh-to-help-center) to find solutions to the most frequent problems, or read the documentation about Elementor's many features.
 -   **Academy** <br>Grow your Web Creator skills and learn how to take the most of Elementor in the [Elementor Academy](https://elemn.to/gh-to-academy).
 -   **Global Community** <br>Join the [Elementor Global Community](https://elemn.to/community-on-fb) on Facebook. Where all kinds of users come together to help each other.
 -   **Support Forum** <br>If you have any more questions, visit our support on the [Plugin's Forum](https://elemn.to/wp-support-forum).
--   **Website** <br>For more information about features, FAQs and documentation, check out our website at [Elementor website Builder](https://elemn.to/gh-to-elementor).
+-   **Elementor Website** <br>For more information about features, FAQs and documentation, check out our website at [Elementor website Builder](https://elemn.to/gh-to-elementor).
 
-If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled for personal support, please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.
+**If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled for personal support, please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
 
 ## Liked Elementor?
 
 -   Join the [Elementor Global Community](https://elemn.to/community-on-fb) on Facebook.
 -   Learn from our tutorials on [Elementor's YouTube Channel](https://elemn.to/yt).
--   Or [rate us on WordPress](https://wordpress.org/support/plugin/elementor/reviews/?filter=5/#new-post) :)
+-   Or [rate us on WordPress](https://wordpress.org/support/plugin/elementor/reviews/?filter=5/#new-post)
+-   We would also appreciate your [review on Trustpilot](https://elemn.to/trustpilot), it really makes a difference! :)
