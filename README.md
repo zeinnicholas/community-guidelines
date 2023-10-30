@@ -1,6 +1,6 @@
 # <p><a href="https://elemn.to/gh-to-elementor"><img src="https://i.imgur.com/0Guj2pn.png?1" alt="Elementor Website Builder"></a></p>
 
-**Welcome to the Elementor GitHub repository. Elementor is the most advanced front-end drag-and-drop website builder. Create high-end, pixel-perfect websites at record speeds. Any theme, any page, any design.**
+**Welcome to the Elementor GitHub repository! Elementor is the most advanced front-end drag-and-drop website builder. Create high-end, pixel-perfect websites at record speeds. Any theme, any page, any design.**
 
 <p><a href="https://elemn.to/gh-to-elementor"><img src="https://ps.w.org/elementor/assets/screenshot-1.gif" alt="Elementor Website Builder"></a></p>
 
@@ -47,7 +47,7 @@ If you find a bug in the source code and can reproduce it consistently after tro
 
 Join our community-driven [Managed Security Bug Bounty program](https://elemn.to/bug-bounty). We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered ‘in scope’, reward specifics, and our complete terms and conditions.
 
-To learn more about our security efforts, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
+To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
 
 ### Feature Request
 
@@ -88,5 +88,4 @@ Alternatively, you can visit one of the resources below:
 
 -   Join the [Elementor Global Community](https://elemn.to/community-on-fb) on Facebook.
 -   Learn from our tutorials on [Elementor's YouTube Channel](https://elemn.to/yt).
--   Or [rate us on WordPress](https://wordpress.org/support/plugin/elementor/reviews/?filter=5/#new-post)
--   We would also appreciate your [review on Trustpilot](https://elemn.to/trustpilot), it really makes a difference! :)
+-   Or [rate us on WordPress](https://wordpress.org/support/plugin/elementor/reviews/?filter=5/#new-post), it would mean the world to us! :)
