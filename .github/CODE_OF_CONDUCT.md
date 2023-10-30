@@ -2,7 +2,9 @@
 
 # <a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=code-of-conduct">![logo](https://user-images.githubusercontent.com/1778512/191041718-728d179e-07cb-4cb4-953a-6c294ee8c4db.png)</a>
 
-**The Elementor GitHub organization page and all respective repositories are collaborative spaces for developers, enthusiasts, and users alike to contribute, share ideas, and help shape the future of Elementor in a positive and welcoming way.** <br>All participants are expected to follow this Code of Conduct without exceptions.
+**The Elementor GitHub organization page and all respective repositories are collaborative spaces for developers, enthusiasts, and users alike to contribute, share ideas, and help shape the future of Elementor in a positive and welcoming way.**
+
+All participants are expected to follow this Code of Conduct without exceptions.
 
 ## Our Pledge
 
