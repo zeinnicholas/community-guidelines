@@ -8,7 +8,7 @@ All participants are expected to follow this Code of Conduct without exceptions.
 
 ## Our Pledge
 
-In the interest of fostering an open, inclusive, and welcoming environment, we strive to maintain, in all collaborative spaces, a harassment-free experience for everyone, regardless of skill level, ability, disability, socioeconomic status, age, appearance, nationality, ethnicity, gender identity, sexual orientation, or religion.
+In the interest of fostering an open, inclusive, and welcoming environment, we strive to maintain, in all collaborative spaces, a harassment-free experience for everyone, regardless of skill level, ability, disability, socioeconomic status, political inclination, age, appearance, nationality, ethnicity, gender identity, sexual orientation, or religion.
 
 This Code of Conduct outlines our expectations for all those who participate in any Elementor GitHub space, as well as the consequences of unacceptable behavior.
 
