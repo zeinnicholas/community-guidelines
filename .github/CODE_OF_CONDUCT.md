@@ -8,13 +8,13 @@
 
 In the interest of fostering an open, inclusive, and welcoming environment, we strive to maintain in all collaborative spaces a harassment-free experience for everyone, regardless of experience level, ability, disability, socioeconomic status, age, appearance, nationality, ethnicity, gender identity, sexual orientation, or religion.
 
-This Code of Conduct outlines our expectations for all those who participate in any thread, as well as the consequences of unacceptable behavior.
+This Code of Conduct outlines our expectations for all those who participate in any Elementor GitHub space, as well as the consequences of unacceptable behavior.
 
 We invite all those who participate to help us create safe and positive experiences for everyone.
 
 ## Guidelines
 
-To ensure everyone has a good experience, we outlined a few rules that should be followed and enforced by all participants.
+To ensure everyone has a good, welcoming, and positive experience, we outlined a few rules that should be followed and enforced by all participants.
 
 ### Be respectful and empathetic
 
@@ -35,14 +35,14 @@ Organize and submit your issues, discussions, and comments properly:
 -   Troubleshoot your issues before posting.
 -   Search before creating new threads.
 -   Post in the correct channels.
--   Provide instant and thorough information, especially when asked.
 -   Stay on topic.
--   Submit your own threads instead of using other threads to make other requests or report other issues.
+-   Provide instant and thorough information when asked.
+-   Submit your own threads instead of commenting on other threads to report different bugs or request different features.
 -   Instead of commenting "+1" or "Agreed", use the upvote button when available.
 
 ## Expected behaviors
 
-We're here to create a positive environment. Always be respectful, show empathy, respect differing opinions, give and accept feedback gracefully, apologize for mistakes, and focus on the community's good.
+We're here to create a positive environment. Always be respectful, show empathy, respect differing opinions, give and accept feedback gracefully, apologize for mistakes, and focus on keeping all spaces always welcoming.
 
 ## Unacceptable behaviors
 
@@ -54,7 +54,7 @@ Our maintainers will enforce these guidelines and take fair action if necessary.
 
 This Code of Conduct applies to all Elementor GitHub pages and spaces, including but not limited to Issues and Discussions.
 
-If you wish to file a complaint, please [reach out to Elementor Support](https://elemn.to/contact).
+If you wish to file a complaint, please [use the Elementor Contact page](https://elemn.to/contact).
 
 ## Attribution
 
