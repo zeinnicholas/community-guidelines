@@ -52,8 +52,8 @@ If you found a bug in the source code and can reproduce it consistently after tr
 
 ### Before submitting your Bug Report, follow these best practices to help save time
 
--   **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[Labels](https://elemn.to/gh-labels)** to refine your serach.
--   **Stay Up-to-date** <br>Make sure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and even WordPress.
+-   **Search Before Posting** <br>Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates. <br>Use [GitHub Labels](https://elemn.to/gh-labels) to refine your serach.
+-   **Stay Up-to-date** <br>Make sure you are using the [most recent and stable versions](https://elemn.to/changelog) of Elementor (and Elementor Pro), as well as all installed plugins, themes, and even WordPress.
 -   **Troubleshoot your Issue** <br>Visit our [Help Center](https://elemn.to/gh-to-help-center) and use the search function to find [troubleshooting articles](https://elemn.to/help-troubleshooting) for the most common problems that can be solved quickly.
 -   **Isolate the Problem and Validate your Issue** <br>Make sure your issue happens when only the **Elementor (and Elementor Pro)** plugins are active, while also using the [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/). <br>This helps identify if the issue you're experiencing is actually caused by Elementor or not.
 -   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needing to read the description.
