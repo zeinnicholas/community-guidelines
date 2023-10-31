@@ -51,7 +51,7 @@ body:
           required: true
       attributes:
           label: "Description"
-          description: "Please help us understand in detail what issue you are experiencing."
+          description: "Please help us understand in detail what problems you are experiencing."
     - type: markdown
       attributes:
           value: |
@@ -90,8 +90,8 @@ body:
               <br>
 
               ### 🕵️ Isolate the problem and Validate your issue
-              Deactivate all plugins _**except Elementor (and Elementor Pro)**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
-              - **Test your issue** to verify if it happens when only the Elementor (and Elementor Pro) plugins are active while also using the Hello Elementor theme.
+              - Deactivate all plugins _**except Elementor (and Elementor Pro)**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
+              - Verify if your problem happens when only the Elementor (and Elementor Pro) plugins are active while also using the Hello Elementor theme.
               - If the issue can't be recreated consistently or reproduced following the steps above, it's likely **not an Elementor bug**. <br>In that case, use the **[support link](https://elemn.to/support-ticket)** at the top of this form, or **[troubleshoot your issue again](https://elemn.to/help-troubleshooting)**.
     - type: checkboxes
       id: isolating_the_problem
