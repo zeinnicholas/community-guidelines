@@ -10,17 +10,17 @@ body:
               ### 🛟 Need Help, Guidance, Assistance, or Support? <br>[Click here to get support](https://elemn.to/support-ticket).
               ### 🐞 Need to Report an Elementor Bug? <br>[Click here to report a bug](https://elemn.to/gh-new-bug-report).
 
-              #### ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing).
+              #### ℹ️ For more information, please read our [Contribution Guidelines](https://elemn.to/gh-contributing).
               <br>
 
               ### 😉 Follow these best practices to help save time
               - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your request at a glance without needing to read the description.
-              - ☝️ **One Request Per Thread** <br>If you have more than one request, please submit only **<ins>ONE REQUEST PER THREAD</ins>**. <br>Requests with more than one subject may be closed without action.
+              - ☝️ **One Request Per Thread** <br>If you have multiple requests, please submit only **<ins>ONE REQUEST PER THREAD</ins>**. <br>Requests with more than one subject may be closed without action.
               <br>
 
 
               ### ✳️ Fill-in all required fields!
-              - ❌ Requests lacking detail, or submitted for any other reason than to suggest new ideas, features, or enhancements for the Elementor plugin, may be closed without action.
+              - ❌ Requests lacking detail or submitted for any other reason than to suggest new ideas, features, or enhancements for the Elementor plugin may be closed without action.
               <br>
 
               ---
@@ -29,15 +29,15 @@ body:
               # THE REQUEST
               ### 📋 Prerequisites
               - 🔍 **Search Before Posting** <br>Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates. 
-              - ✔️ **Confirm Before Posting** <br>If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/gh-to-features) before posting.
+              - ✔️ **Confirm Before Posting** <br>Please check the [Elementor Features page](https://elemn.to/features) before posting to avoid requesting an existing feature.
     - type: checkboxes
       id: prerequisites
       attributes:
           label: "Prerequisites"
           options:
-              - label: "I have searched for similar feature requests in both open and closed discussions and cannot find a an existing request."
+              - label: "I have searched for similar feature requests in both open and closed discussions and cannot find an existing request."
                 required: true
-              - label: "I have verified that the feature is still missing in the latest stable versions of Elementor or Elementor Pro."
+              - label: "I have verified that the feature is still missing from the latest stable versions of Elementor or Elementor Pro."
                 required: true
     - type: markdown
       attributes:
@@ -48,13 +48,13 @@ body:
               - Please explain in detail what problem your idea is going to solve. (Required)
               - Describe how you'd like a solution to be implemented. (Required)
               - Give examples of alternative solutions you've considered.
-              - Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and any additional information.
+              - Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and additional information.
     - type: textarea
       id: the_problem
       validations:
           required: true
       attributes:
-          label: "What problem is your feature request going to solve? Please describe."
+          label: "What problem is your feature request going to solve? Please describe.."
           description: "Help everyone understand in detail what problems you are trying to solve."
           placeholder: "I'm always frustrated when ..."
     - type: textarea
@@ -83,13 +83,13 @@ body:
               <br>
 
               ### 📃 Agreement
-              - ⚠️ Please follow all the instructions indicated above, and fill in all the required fields with valid information. <br>We reserve the right to close requests that do not comply with these guidelines without any action.
+              - ⚠️ Please follow all the instructions above and fill in all the required fields with valid information. <br>We reserve the right to close requests that do not comply with these guidelines without any action.
     - type: checkboxes
       id: final_agreement
       attributes:
           label: "Agreement"
           options:
-              - label: "I agree that my request may be closed without any action if it doesn't fulfill all the requirements."
+              - label: "I agree that my request may be closed without action if it doesn't meet all the requirements."
                 required: true
     - type: markdown
       attributes:
