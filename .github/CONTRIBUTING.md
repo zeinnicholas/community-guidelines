@@ -32,7 +32,7 @@ Alternatively, you can visit one of these resources:
 
 **If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
 
-#### As a gentle reminder, we may close support requests submitted to GitHub spaces without any action.
+**As a gentle reminder, we may close support requests submitted to GitHub spaces without any action.**
 
 ## How to report Security Issues
 
@@ -40,7 +40,7 @@ At Elementor we take security very seriously. For this reason, we run a communit
 
 We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope,' reward specifics, and our complete terms and conditions.
 
-### Please do not report security issues on GitHub
+<h3>Please do not report security issues on GitHub</h3>
 
 Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) instead and help us maintain Elementor a secure software for all in a responsible way.
 
@@ -50,7 +50,7 @@ Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) inst
 
 If you found a bug in the source code and can reproduce it consistently after troubleshooting it, you can help us by [submitting a Bug Report](https://elemn.to/gh-new-bug-report).
 
-### Before submitting your Bug Report, follow these best practices to help save time:
+<h3>Before submitting your Bug Report, follow these best practices to help save time</h3>
 
 -   **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[Labels](https://elemn.to/gh-labels)** to refine your serach.
 -   **Stay Up-to-date** <br>Make sure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and even WordPress.
@@ -62,7 +62,7 @@ If you found a bug in the source code and can reproduce it consistently after tr
 -   **Tell us what you were Expecting to happen** <br>Describe what is the **Expected behavior** to help identify the root of the issue.
 -   **Share the Elementor System Info** <br>Be ready to share a full copy of the [Elementor System Info](https://elemn.to/help-system-info) report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
 
-#### As a gentle reminder, we may close issues that do not comply with these guidelines without any action.
+**As a gentle reminder, we may close issues that do not comply with these guidelines without any action.**
 
 ## How to Request a Feature
 
