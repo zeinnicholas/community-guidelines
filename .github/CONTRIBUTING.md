@@ -75,7 +75,7 @@ Suggest new ideas, features, or enhancements by [submitting a Feature Request](h
 ### Before submitting a new Feature Request, follow these best practices to help save time
 
 -   **Search Before Posting** <br>Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates.
--   **Confirm Before Posting** <br>Please check the [Elementor Features page](https://elemn.to/features) before posting to avoid requesting a feature that already exists.
+-   **Confirm Before Posting** <br>Please check the [Elementor Features page](https://elemn.to/features) before posting to avoid requesting an existing feature.
 -   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your request at a glance without needing to read the description.
 -   **Provide a Detailed Description** <br>Please describe how you'd like us to implement the solution.
 -   **Describe the Solution** <br>Describe how you'd like a solution to be implemented.
