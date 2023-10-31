@@ -4,9 +4,9 @@
 
 **Welcome to the Elementor Contribution Guidelines**
 
-Community contributions are always welcomed and help us remain the Number 1 WordPress Website Builder. Contributors are invited to answer questions on all Elementor GitHub spaces or submit their contributions in the appropriate channels.
+Community contributions are always welcomed and help us remain the Number 1 WordPress Website Builder. Contributors can answer questions on all Elementor GitHub spaces or submit their contributions in the appropriate channels.
 
-**Before submitting contributions, all participants should read and follow these Guidelines as well as our [Conde of Conduct](https://elemn.to/gh-code-of-conduct).**
+**Before submitting contributions, all participants should read and follow these Guidelines and our [Code of Conduct](https://elemn.to/gh-code-of-conduct).**
 
 ## How to use GitHub
 
@@ -20,7 +20,7 @@ We use GitHub **<ins>exclusively</ins>** for well-documented **Bug Reports**, **
 Please **DO NOT** open issues or discussions to request support.
 <br>For those, use the appropriate channels.
 
-#### Find out how to [submit a Support Ticket here](https://elemn.to/support-ticket).
+**Find out how to [submit a Support Ticket here](https://elemn.to/support-ticket).**
 
 Alternatively, you can visit one of these resources:
 
@@ -32,7 +32,7 @@ Alternatively, you can visit one of these resources:
 
 **If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
 
-**As a gentle reminder, we may close support requests submitted to GitHub spaces without any action.**
+**As a gentle reminder, we may close support requests submitted to GitHub spaces without action.**
 
 ## How to report Security Issues
 
@@ -42,9 +42,9 @@ We leverage the collective expertise of our community, offering round-the-clock 
 
 ### Please do not report security issues on GitHub
 
-Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) instead and help us maintain Elementor a secure software in a responsible way.
+Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) instead and help us maintain Elementor, a secure software, responsibly.
 
-#### To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
+**To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).**
 
 ## How to Report a Bug
 
@@ -53,17 +53,17 @@ If you found a bug in the source code and can reproduce it consistently after tr
 ### Before submitting your Bug Report, follow these best practices to help save time
 
 -   **Search Before Posting** <br>Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates. <br>Use [GitHub Labels](https://elemn.to/gh-labels) to refine your serach.
--   **Stay Up-to-date** <br>Make sure you are using the [most recent and stable versions](https://elemn.to/changelog) of Elementor (and Elementor Pro), as well as all installed plugins, themes, and even WordPress.
+-   **Stay Up-to-date** <br>Ensure you are using the [most recent and stable versions](https://elemn.to/changelog) of Elementor (and Elementor Pro), as well as all installed plugins, themes, and WordPress.
 -   **Troubleshoot your Issue** <br>Visit our [Help Center](https://elemn.to/gh-to-help-center) and use the search function to find [troubleshooting articles](https://elemn.to/help-troubleshooting) for the most common problems that can be solved quickly.
--   **Isolate the Problem and Validate your Issue** <br>Make sure your issue happens when only the **Elementor (and Elementor Pro)** plugins are active, while also using the [Hello Elementor theme](https://elemn.to/wp-hello-elementor-theme). <br>This helps identify if the issue you're experiencing is actually caused by Elementor or not.
+-   **Isolate the Problem and Validate your Issue** <br>Ensure your issue happens when only the **Elementor (and Elementor Pro)** plugins are active while also using the [Hello Elementor theme](https://elemn.to/wp-hello-elementor-theme). <br>Isolating the problem helps identify if Elementor causes the issue you're experiencing
 -   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needing to read the description.
--   **Provide a Detailed Description** <br>Help us understand in detail what problems you are experiencing. <br>Describe the problems in detail, provide examples, screenshots, screen recordings and related links.
--   **Explain how we can Recreate your Issue** <br>Give detailed **Steps to Reproduce** so we can replicate your issue in our own environment.
--   **Tell us what you were Expecting to happen** <br>Describe what is the **Expected behavior** to help identify the root of the issue.
+-   **Provide a Detailed Description** <br>Please help us understand in detail what problems you are experiencing. <br>Describe the problems in detail, and provide examples, screenshots, screen recordings, and related links.
+-   **Explain how we can Recreate your Issue** <br>Give detailed **Steps to Reproduce** so we can replicate your issue in our environment.
+-   **Tell us what you were Expecting to Happen** <br>Describe the **Expected Behavior** to help identify the root of the issue.
 -   **Share the Elementor System Info** <br>Be ready to share a full copy of the [Elementor System Info](https://elemn.to/help-system-info) report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
--   **Write One Bug Report per Issue** <br><br>If you are experiencing more than one bug, submit only **<ins>ONE BUG PER ISSUE</ins>**.
+-   **Write One Bug Report per Issue** <br>If you are experiencing more than one bug, submit only **<ins>ONE BUG PER ISSUE</ins>**.
 
-**As a gentle reminder, we may close issues that do not comply with these guidelines without any action.**
+**As a gentle reminder, we may close issues that do not comply with these guidelines without action.**
 
 ## How to Request a Feature
 
@@ -75,19 +75,19 @@ Suggest new ideas, features, or enhancements by [submitting a Feature Request](h
 ### Before submitting a new Feature Request, follow these best practices to help save time
 
 -   **Search Before Posting** <br>Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates.
--   **Confirm Before Posting** <br>If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/features) before posting.
+-   **Confirm Before Posting** <br>Please check the [Elementor Features page](https://elemn.to/features) before posting to avoid requesting a feature that already exists.
 -   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your request at a glance without needing to read the description.
--   **Provide a Detailed Description** <br>Help us understand in detail what problems your idea is going to solve.
+-   **Provide a Detailed Description** <br>Please describe how you'd like us to implement the solution.
 -   **Describe the Solution** <br>Describe how you'd like a solution to be implemented.
 -   **Provide Alternatives** <br>Give examples of alternative solutions you've considered.
--   **Give Additional Context** <br>Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and any additional information.
--   **Write One Request Per Thread** <br>If you have more than one request, please submit only **<ins>ONE REQUEST PER THREAD</ins>**.
+-   **Give Additional Context** <br>Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and additional information.
+-   **Write One Request Per Thread** <br>If you have multiple requests, please submit only **<ins>ONE REQUEST PER THREAD</ins>**.
 
-**As a gentle reminder, we may close requests that do not comply with these guidelines without any action.**
+**As a gentle reminder, we may close requests that do not comply with these guidelines without action.**
 
 ## I want to Contribute
 
-Community contributions are always welcome! We’re glad to hear you have an interest in helping shape the future of Elementor.
+Community contributions are always welcome! We're glad to hear you are interested in helping shape the future of Elementor.
 
 **There are many ways to contribute to Elementor**
 
@@ -103,21 +103,21 @@ Join others by answering questions on Elementor's GitHub spaces to help solve is
 
 ### Submit Pull Requests
 
-If you're able to submit fixes, improvements, or enhancements through pull requests, that's fantastic! We'd love your technical contributions. Please refer to our detailed [guide on submitting pull requests](#submitting-a-pr) below for more information.
+If you can submit fixes, improvements, or enhancements through pull requests, that's fantastic! We'd love your technical contributions. Please refer to our detailed [guide on submitting pull requests](#submitting-a-pr) below for more information.
 
 #### Before Submitting a PR
 
--   **Search for Existing Issues** <br>Make sure to check if your issue has been reported already by searching through [existing issues](https://elemn.to/gh-issues).
+-   **Search for Existing Issues** <br>Check if your issue has been reported already by searching through [existing Issues](https://elemn.to/gh-issues).
 -   **Create a new Bug Report** <br>If you cannot find a similar issue, please [create a new Bug Report](https://elemn.to/gh-new-bug-report).
 -   **Read our Documentation** <br>Visit the [Elementor Developers Center](https://elemn.to/gh-to-dev-center) and read the [Developers Documentation](https://elemn.to/gh-to-dev-docs) to learn how to extend Elementor.
 
 #### Submitting a PR
 
 -   **Fork the Repository** <br>Start by forking the Elementor repository on GitHub. Please ensure you're using the **`main`** branch.
--   **Create a new branch** <br>Create a new branch that is exclusive to the changes you're going to perform. This way you can maintain separation between projects.
--   **Make your changes** <br>After you've forked the repository, you can start making changes to your copy of the code.
--   **Adhere to Coding Standards** <br>While making changes, ensure you stick to the [WordPress Coding Standards](https://elemn.to/wp-coding-standards). <br>If you've added any new functions, actions, or filters, please document them properly following the [WordPress PHP Documentation Standards](https://elemn.to/wp-php-docs-standards).
--   **Commit with a Reference and Note** <br>When you commit your changes, make sure to reference your issue and include a note about your fix.
+-   **Create a new branch** <br>Create a new branch exclusive to the changes you're going to perform. This way, you can maintain separation between projects.
+-   **Make your changes** <br>After you've forked the repository, you can start changing your copy of the code.
+-   **Adhere to Coding Standards** <br>While making changes, ensure you stick to the [WordPress Coding Standards](https://elemn.to/wp-coding-standards). <br>If you've added new functions, actions, or filters, please document them properly following the [WordPress PHP Documentation Standards](https://elemn.to/wp-php-docs-standards).
+-   **Commit with a Reference and Note** <br>When you commit your changes, reference your issue and include a note about your fix.
 -   **Submit a Pull Request** <br>After pushing the changes to your fork, you're ready to submit a pull request to the main branch of the Elementor repository. Please follow our [Pull Request Template](https://elemn.to/gh-pr-template) when submitting your PR.
 
 Our team will review your pull request and, if approved and everything is in order, merge it into the main branch. We are here to assist you in making sure your code aligns with the standards described above.
