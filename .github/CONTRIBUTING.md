@@ -36,13 +36,13 @@ Alternatively, you can visit one of these resources:
 
 ## How to report Security Issues
 
-At Elementor we take security very seriously. For this reason, we run a community-driven [Managed Security Bug Bounty program](https://elemn.to/bug-bounty).
+Security is paramount at Elementor. If you discover a security vulnerability, we want to hear about it right away, and we appreciate your help in disclosing it to us in a coordinated manner. For this reason, we run a community-driven [Managed Security Bug Bounty program](https://elemn.to/bug-bounty).
 
 We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope,' reward specifics, and our complete terms and conditions.
 
 ### Please do not report security issues on GitHub
 
-Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) instead and help us maintain Elementor a secure software for all in a responsible way.
+Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) instead and help us maintain Elementor a secure software in a responsible way.
 
 #### To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
 
@@ -87,33 +87,46 @@ Suggest new ideas, features, or enhancements by [submitting a Feature Request](h
 
 ## I want to Contribute
 
-Community contributions are always welcome and help us remain the **Number 1 WordPress Page Builder**.
+Community contributions are always welcome! We’re glad to hear you have an interest in helping shape the future of Elementor.
 
-There are many ways to contribute to Elementor:
+**There are many ways to contribute to Elementor**
 
--   Translating strings into your language.
--   Answering questions on GitHub and within the various Elementor communities.
--   Submitting fixes, improvements, and enhancements.
+### Translate
 
-When contributing please ensure you follow the guidelines below so that we can keep on top of things.
+The Elementor User Interface was designed with a global audience in mind. It supports a wide range of languages and is also RTL compatible. Out of the box, we offer support for over 60 languages.
+
+Want to make a difference? <br>We would appreciate your contribution by adding a new language or helping translate existing ones at [translate.wordpress.org](https://elemn.to/transate-repo). To assist you, we've built a short guide explaining [how to translate and localize the plugin](https://elemn.to/gh-to-help-localize-elementor).
+
+### Community Support
+
+Join others by answering questions on Elementor's GitHub spaces to help solve issues and engage in discussions. <br>Your insights and solutions can greatly assist others in navigating similar challenges.
+
+### Submit Pull Requests
+
+If you're able to submit fixes, improvements, or enhancements through pull requests, that's fantastic! We'd love your technical contributions. Please refer to our detailed [guide on submitting pull requests](#submitting-a-pr) below for more information.
 
 #### Before Submitting a PR
 
-Make sure your problem does not exist as an issue already by searching through [the existing issues](https://github.com/elementor/elementor/issues). If you cannot find anything which relates to your problem, please [create a new issue](https://github.com/elementor/elementor/issues/new).
+-   **Search for Existing Issues** <br>Make sure to check if your issue has been reported already by searching through [existing issues](https://elemn.to/gh-issues).
+-   **Create a new Bug Report** <br>If you cannot find a similar issue, please [create a new Bug Report](https://elemn.to/gh-new-bug-report).
+-   **Read our Documentation** <br>Visit the [Elementor Developers Center](https://elemn.to/gh-to-dev-center) and read the [Developers Documentation](https://elemn.to/gh-to-dev-docs) to learn how to extend Elementor.
 
 #### Submitting a PR
 
--   Fork the repository on GitHub (make sure to use the `main` branch).
--   Make the changes to your forked repository.
--   Ensure you stick to the [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/) and you properly document any new functions, actions and filters following the [documentation standards](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/php/).
--   When committing, reference your issue and include a note about the fix.
--   Push the changes to your fork and submit a pull request to the `main` branch of the Elementor repository.
--   Make sure you follow the Pull Request Template.
+-   **Fork the Repository** <br>Start by forking the Elementor repository on GitHub. Please ensure you're using the **`main`** branch.
+-   **Create a new branch** <br>Create a new branch that is exclusive to the changes you're going to perform. This way you can maintain separation between projects.
+-   **Make your changes** <br>After you've forked the repository, you can start making changes to your copy of the code.
+-   **Adhere to Coding Standards** <br>While making changes, ensure you stick to the [WordPress Coding Standards](https://elemn.to/wp-coding-standards). <br>If you've added any new functions, actions, or filters, please document them properly following the [WordPress PHP Documentation Standards](https://elemn.to/wp-php-docs-standards).
+-   **Commit with a Reference and Note** <br>When you commit your changes, make sure to reference your issue and include a note about your fix.
+-   **Submit a Pull Request** <br>After pushing the changes to your fork, you're ready to submit a pull request to the main branch of the Elementor repository. Please follow our [Pull Request Template](https://elemn.to/gh-pr-template) when submitting your PR.
 
-We will review your pull request and merge when everything is in order. We will help you to make sure the code complies with the standards described above.
+Our team will review your pull request and, if approved and everything is in order, merge it into the main branch. We are here to assist you in making sure your code aligns with the standards described above.
+
+Your contributions, big or small, play a significant part in the continued development of Elementor. We can't wait to see what you have to share!
 
 #### Additional Resources
 
--   [Elementor Developers](https://developers.elementor.com)
+-   [Elementor Developers Center](https://elemn.to/gh-to-dev-center)
+-   [Elementor Developers Documentation](https://elemn.to/gh-to-dev-docs)
 -   [General GitHub Documentation](https://help.github.com/)
 -   [GitHub Pull Request Documentation](https://help.github.com/send-pull-requests/)
