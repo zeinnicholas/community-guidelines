@@ -6,7 +6,7 @@
 
 Community contributions are always welcomed and help us remain the Number 1 WordPress Website Builder. Contributors are invited to answer questions on all Elementor GitHub spaces or submit their contributions in the appropriate channels.
 
-**Before submitting contributions, all participants should read and follow these Guidelines as well as our [Conde of Conduct](https://gh-code-of-conduct).**
+**Before submitting contributions, all participants should read and follow these Guidelines as well as our [Conde of Conduct](https://elemn.to/gh-code-of-conduct).**
 
 ## How to use GitHub
 
