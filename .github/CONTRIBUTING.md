@@ -32,33 +32,39 @@ Alternatively, you can visit one of these resources:
 
 **If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
 
-## Security Issues
+**As a gentle reminder, we may close support requests subnitted to GitHub spaces without any action.**
+
+## How to report Security Issues
 
 At Elementor we take security very seriously. For this reason, we run a community-driven [Managed Security Bug Bounty program](https://elemn.to/bug-bounty).
 
 We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope,' reward specifics, and our complete terms and conditions.
 
-### Please do not report security issues here.
+### Please do not report security issues on GitHub.
 
 Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) instead and help us maintain Elementor a secure software for all in a responsible way.
 
 #### To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).
 
-## Found a Bug?
+## How to Report a Bug
 
-If you find a bug in the source code, you can help us by [submitting a bug report](#bug-report) issue to our [GitHub Repository](https://github.com/elementor/elementor/issues/new?template=Feature_request.md). Even better, you can submit a Pull Request with a fix.
+If you found a bug in the source code and can reproduce it consistently after troubleshooting it, you can help us by [submitting a Bug Report](https://elemn.to/gh-new-bug-report).
 
-### Bug Report
+### Before submitting your Bug Report, follow these best practices to help save time:
 
-Before opening a new issue, please:
+-   **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[Labels](https://elemn.to/gh-labels)** to refine your serach.
+-   **Stay Up-to-date** <br>Make sure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and even WordPress.
+-   **Troubleshoot your Issue** <br>Visit our [Help Center](https://elemn.to/gh-to-help-center) and use the search function to find [troubleshooting articles](https://elemn.to/help-troubleshooting) for the most common problems that can be solved quickly.
+-   **Isolate the Problem and Validate your Issue** <br>Make sure your issue happens when only the _**Elementor (and Elementor Pro)**_ plugins are active, while also using the [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/). <br>This helps identify if the issue you're experiencing is actually caused by Elementor or not.
+-   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needting to read the description.
+-   **Provide a Detailed Description** <br>Help us understand in detail what problems you are experiencing. <br>Describe the problems in detail, provide examples, screenshots, screen recordings and related links.
+-   **Explain how we can Recreate your Issue** <br>Give detailed **Steps to Reproduce** so we can replicate your issue in our own environment.
+-   **Tell us what you were Expecting to happen** <br>Describe what is the **Expected behavior** to help identify the root of the issue.
+-   **Share the Elementor System Info** <br>Be ready to share a full copy of the [Elementor System Info](https://elemn.to/help-system-info) report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
 
--   update to the newest versions of WordPress and the Elementor/Elementor Pro plugins.
--   search for duplicate issues to prevent opening a duplicate issue. If there is already an open existing issue, please comment on that issue.
--   check our [Elementor Knowledge base](https://docs.elementor.com) for your issue. There are a lot of common errors documented there with possible solutions.
--   follow our [Bug Report](https://github.com/elementor/elementor/issues/new?template=Bug_report.md) template when creating a new issue.
--   add as much information as possible. For example: add screenshots, relevant links, step by step guides etc.
+**As a gentle reminder, we may close issues that do not comply with these guidelines without any action.**
 
-## Feature Request
+## How to Request a Feature
 
 Before opening a new Feature Request issue, please:
 
