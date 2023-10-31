@@ -11,9 +11,11 @@ Community contributions are always welcomed and help us remain the Number 1 Word
 ## How to use GitHub
 
 We use GitHub **<ins>exclusively</ins>** for well-documented **Bug Reports**, **Feature Requests** and **Code Contributions (Pull Requests)**.
-<br>Communication should always be in English.
+<br>Communication should always be in **English**.
 
-#### Note that we are unable to offer any support through this repository.
+### Need Help, Guidance, Assistance, or Support?
+
+**Note that we are unable to offer any support through this repository.**
 
 Please **DO NOT** open issues or discussions to request support.
 <br>For those, use the appropriate channels.
