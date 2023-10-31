@@ -40,7 +40,7 @@ At Elementor we take security very seriously. For this reason, we run a communit
 
 We leverage the collective expertise of our community, offering round-the-clock crowdsourced vulnerability detection. The program provides a comprehensive overview of features and endpoints considered 'in scope,' reward specifics, and our complete terms and conditions.
 
-<h3>Please do not report security issues on GitHub</h3>
+### Please do not report security issues on GitHub
 
 Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) instead and help us maintain Elementor a secure software for all in a responsible way.
 
@@ -50,27 +50,40 @@ Join our [Managed Security Bug Bounty program](https://elemn.to/bug-bounty) inst
 
 If you found a bug in the source code and can reproduce it consistently after troubleshooting it, you can help us by [submitting a Bug Report](https://elemn.to/gh-new-bug-report).
 
-<h3>Before submitting your Bug Report, follow these best practices to help save time</h3>
+### Before submitting your Bug Report, follow these best practices to help save time
 
 -   **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[Labels](https://elemn.to/gh-labels)** to refine your serach.
 -   **Stay Up-to-date** <br>Make sure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and even WordPress.
 -   **Troubleshoot your Issue** <br>Visit our [Help Center](https://elemn.to/gh-to-help-center) and use the search function to find [troubleshooting articles](https://elemn.to/help-troubleshooting) for the most common problems that can be solved quickly.
--   **Isolate the Problem and Validate your Issue** <br>Make sure your issue happens when only the _**Elementor (and Elementor Pro)**_ plugins are active, while also using the [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/). <br>This helps identify if the issue you're experiencing is actually caused by Elementor or not.
--   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needting to read the description.
+-   **Isolate the Problem and Validate your Issue** <br>Make sure your issue happens when only the **Elementor (and Elementor Pro)** plugins are active, while also using the [Hello Elementor theme](https://wordpress.org/themes/hello-elementor/). <br>This helps identify if the issue you're experiencing is actually caused by Elementor or not.
+-   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needing to read the description.
 -   **Provide a Detailed Description** <br>Help us understand in detail what problems you are experiencing. <br>Describe the problems in detail, provide examples, screenshots, screen recordings and related links.
 -   **Explain how we can Recreate your Issue** <br>Give detailed **Steps to Reproduce** so we can replicate your issue in our own environment.
 -   **Tell us what you were Expecting to happen** <br>Describe what is the **Expected behavior** to help identify the root of the issue.
 -   **Share the Elementor System Info** <br>Be ready to share a full copy of the [Elementor System Info](https://elemn.to/help-system-info) report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
+-   **Write One Bug Report per Issue** <br><br>If you are experiencing more than one bug, submit only **<ins>ONE BUG PER ISSUE</ins>**.
 
 **As a gentle reminder, we may close issues that do not comply with these guidelines without any action.**
 
 ## How to Request a Feature
 
-Before opening a new Feature Request issue, please:
+Do you have a brilliant idea, enhancement, or feature you would love to see in Elementor? We're all ears!
 
--   Search for duplicate issues to prevent opening a duplicate feature request. If there is already an open existing request, please leave a comment there.
--   Follow our [Feature Request](https://github.com/elementor/elementor/issues/new?template=Feature_request.md) template when creating a new issue.
--   Add as much information as possible. For example: give us a clear explanation of why you think the feature request is something we should consider for Elementor.
+Suggest new ideas, features, or enhancements by [submitting a Feature Request](https://elemn.to/gh-new-feature-request).
+<br>You can also support existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
+
+### Before submitting a new Feature Request, follow these best practices to help save time
+
+-   **Search Before Posting** <br>Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates.
+-   **Confirm Before Posting** <br>If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/features) before posting.
+-   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your request at a glance without needing to read the description.
+-   **Provide a Detailed Description** <br>Help us understand in detail what problems your idea is going to solve.
+-   **Describe the Solution** <br>Describe how you'd like a solution to be implemented.
+-   **Provide Alternatives** <br>Give examples of alternative solutions you've considered.
+-   **Give Additional Context** <br>Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and any additional information.
+-   **Write One Request Per Thread** <br>If you have more than one request, please submit only **<ins>ONE REQUEST PER THREAD</ins>**.
+
+**As a gentle reminder, we may close requests that do not comply with these guidelines without any action.**
 
 ## I want to Contribute
 
