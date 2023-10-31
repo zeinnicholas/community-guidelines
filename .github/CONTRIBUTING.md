@@ -128,5 +128,5 @@ Your contributions, big or small, play a significant part in the continued devel
 
 -   [Elementor Developers Center](https://elemn.to/gh-to-dev-center)
 -   [Elementor Developers Documentation](https://elemn.to/gh-to-dev-docs)
--   [General GitHub Documentation](https://help.github.com/)
--   [GitHub Pull Request Documentation](https://help.github.com/send-pull-requests/)
+-   [GitHub Support and General Documentation](https://elemn.to/gh-support-center)
+-   [GitHub Pull Request Documentation](https://elemn.to/gh-support-pull-requests)
