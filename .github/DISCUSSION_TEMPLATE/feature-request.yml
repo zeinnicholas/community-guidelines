@@ -6,13 +6,15 @@ body:
               ### 👋 Hello, welcome to Elementor Feature Requests!
               # ⚠️ BEFORE POSTING READ THIS CAREFULLY
               ## 🚀 Please only use this form to request an Elementor feature or enhancement.
-              #### 🚩 Check our [Roadmap](https://elemn.to/roadmap) to learn what's in the pipeline.
-              ### 🛟 Need Help, Guidance, Assistance, or Support? <br><ins>[Click here to get support](https://elemn.to/support-ticket)</ins>.
-              ### 🐞 Need to Report an Elementor Bug? <br><ins>[Click here to report a bug](https://elemn.to/gh-new-bug-report)</ins>.
+              #### 🚩 Check our [Roadmap](https://elemn.to/gh-to-roadmap) to learn what's in the pipeline.
+              ### 🛟 Need Help, Guidance, Assistance, or Support? <br>[Click here to get support](https://elemn.to/support-ticket).
+              ### 🐞 Need to Report an Elementor Bug? <br>[Click here to report a bug](https://elemn.to/gh-new-bug-report).
+
+              #### ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing).
               <br>
 
               ### 😉 Follow these best practices to help save time
-              - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your request at a glance.
+              - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your request at a glance without needing to read the description.
               - ☝️ **One Request Per Thread** <br>If you have more than one request, please submit only **<ins>ONE REQUEST PER THREAD</ins>**. <br>Requests with more than one subject may be closed without action.
               <br>
 
@@ -27,7 +29,7 @@ body:
               # THE REQUEST
               ### 📋 Prerequisites
               - 🔍 **Search Before Posting** <br>Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates. 
-              - ✔️ **Confirm Before Posting** <br>If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/features) before posting.
+              - ✔️ **Confirm Before Posting** <br>If you're not sure your feature already exists, please check the [Elementor Features page](https://elemn.to/gh-to-features) before posting.
     - type: checkboxes
       id: prerequisites
       attributes:
