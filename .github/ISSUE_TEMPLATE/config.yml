@@ -5,10 +5,10 @@ contact_links:
       about: Need Help, Guidance, Assistance, or Support? Follow these instructions.
     - name: 📖 Contributing Guidelines
       url: https://elemn.to/gh-contributing
-      about: Before filing a bug report, a feature request or sending pull requests, be sure to read the Contribution Guidelines.
+      about: Before filing a bug report, a feature request, or sending pull requests, read the Contribution Guidelines.
     - name: 🤝 Code of Conduct
       url: https://elemn.to/gh-code-of-conduct
-      about: To foster a safe, open, and welcoming environment, we have a Code of Conduct that should be followed by all participants.
+      about: To foster a safe, open, and welcoming environment, we have a Code of Conduct that all participants should follow.
     - name: 🚩 Elementor Roadmap
       url: https://elemn.to/roadmap
       about: Before submitting a request, visit the Elementor Roadmap and learn about the status of upcoming or newly-released features.
@@ -17,16 +17,16 @@ contact_links:
       about: Suggest new ideas, features, or enhancements for the Elementor plugin.
     - name: Help Center
       url: https://elemn.to/help-center
-      about: Visit our Help Center to find solutions to the most frequent problems, or learn how to use Elementor's many features.
+      about: Visit our Help Center to find solutions to the most frequent problems or learn how to use Elementor's many features.
     - name: 🎓 Elementor Academy
       url: https://elemn.to/academy
-      about: Grow your Web Creator skills and learn how to take the most of Elementor.
+      about: Grow your Web Creator skills and learn how to make the most of Elementor.
     - name: 🗨️ Elementor Global Community
       url: https://elemn.to/fb
-      about: The main Facebook group where all kinds of users come together to help each other.
+      about: The main Facebook group is where all kinds of users come together to help each other.
     - name: 📚 Elementor Developers Center
       url: https://elemn.to/dev-center
       about: Technical information and Elementor Developers documentation. Learn everything about extending Elementor.
     - name: 🌐 Elementor Developers Community
       url: https://elemn.to/dev-community
-      about: Share tips, tricks and knowledge with other developers about extending and developing for Elementor.
+      about: Share tips, tricks, and knowledge with other developers about extending and developing for Elementor.
