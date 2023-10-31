@@ -95,7 +95,7 @@ Community contributions are always welcome! We’re glad to hear you have an int
 
 The Elementor User Interface was designed with a global audience in mind. It supports a wide range of languages and is also RTL compatible. Out of the box, we offer support for over 60 languages.
 
-Want to make a difference? <br>We would appreciate your contribution by adding a new language or helping translate existing ones at [translate.wordpress.org](https://elemn.to/transate-repo). To assist you, we've built a short guide explaining [how to translate and localize the plugin](https://elemn.to/gh-to-help-localize-elementor).
+Want to make a difference? <br>We would appreciate your contribution by adding a new language or helping translate existing ones at [translate.wordpress.org](https://elemn.to/translate-repo). To assist you, we've built a short guide explaining [how to translate and localize the plugin](https://elemn.to/gh-to-help-localize-elementor).
 
 ### Community Support
 
