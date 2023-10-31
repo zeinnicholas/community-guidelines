@@ -1,5 +1,5 @@
 name: "🐞 Bug Report"
-description: "Did you find a bug in the source code of Elementor and can reproduce it consistently after troubleshooting it? Report it here."
+description: "Did you find a bug in the source code of Elementor, and can reproduce it consistently after troubleshooting it? Report it here."
 labels: ["status/awaiting_triage"]
 body:
     - type: markdown
@@ -15,7 +15,7 @@ body:
               <br>
 
               ### 😉 Follow these best practices to help save time
-              - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance.
+              - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needing to read the description.
               - ☝️ **One Bug per Thread** <br>If you are experiencing more than one bug, submit only **<ins>ONE BUG PER ISSUE</ins>**. <br>Issues with more than one reported bug may be closed without action.
               <br>
 
