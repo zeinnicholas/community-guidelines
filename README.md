@@ -8,8 +8,6 @@ Welcome to the Elementor GitHub repository!
 
 <p><a href="https://elemn.to/gh-to-elementor"><img src="https://github.com/nicholaszein/community-guidelines/blob/main/.github/assets/elementor-github-cover.gif?raw=true" alt="Elementor Website Builder"></a></p>
 
-<a href="https://elemn.to/gh-to-elementor">https://github.com/nicholaszein/community-guidelines/assets/113993460/f9db21ed-28de-407c-a878-eead95df4766</a>
-
 <br>
 
 Introducing a WordPress website builder with no limits of design. A website builder that delivers high-end page designs and advanced capabilities never before seen on WordPress.
