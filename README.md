@@ -8,7 +8,11 @@ Welcome to the Elementor GitHub repository!
 
 <p><a href="https://elemn.to/gh-to-elementor"><img src="https://github.com/nicholaszein/community-guidelines/blob/main/.github/assets/elementor-github-cover.gif?raw=true" alt="Elementor Website Builder"></a></p>
 
-<p><a href="https://elemn.to/gh-to-elementor"><video width="858" height="483" autoplay muted><source src="https://github.com/nicholaszein/community-guidelines/blob/main/.github/assets/elementor-github-cover.webm?raw=true" type="video/webm"><source src="https://github.com/nicholaszein/community-guidelines/blob/main/.github/assets/elementor-github-cover.mp4?raw=true" type="video/mp4">Elementor Website Builder. Your browser does not support the video tag.</video></a></p>
+<p>
+
+https://github.com/nicholaszein/community-guidelines/assets/113993460/f9db21ed-28de-407c-a878-eead95df4766
+
+</p>
 
 <br>
 
