@@ -6,9 +6,7 @@ Welcome to the Elementor GitHub repository!
 
 <br>
 
-<p><a href="https://elemn.to/gh-to-elementor"><img src="/assets-elementor-github-cover.gif" alt="Elementor Website Builder"></a></p>
-
-<p><a href="https://elemn.to/gh-to-elementor"><video width="858" height="483" autoplay muted><source src="/assets/elementor-github-cover.webm" type="video/webm"><source src="/assets/elementor-github-cover.mp4" type="video/mp4">Elementor Website Builder. Your browser does not support the video tag.</video></a></p>
+<p><a href="https://elemn.to/gh-to-elementor"><img src="/assets/elementor-github-cover.gif" alt="Elementor Website Builder"></a></p>
 
 <br>
 
