@@ -6,7 +6,7 @@ Welcome to the Elementor GitHub repository!
 
 <br>
 
-<p><a href="https://elemn.to/gh-to-elementor">![Elementor Website Builder](../.github/assets/elementor-github-cover.gif)</a></p>
+<p><a href="https://elemn.to/gh-to-elementor">!["Preview Image"](../.github/assets/elementor-github-cover.gif)</a></p>
 
 <br>
 
