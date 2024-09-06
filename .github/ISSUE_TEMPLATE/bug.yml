@@ -7,7 +7,6 @@ body:
           value: |
               # Guidelines
               ## ⚠️ BEFORE POSTING READ THIS CAREFULLY
-              <br>
               ### ✳️ All fields in this form are <ins>required</ins>!
               - 💾 The [Elementor System Info](https://elemn.to/help-system-info) is not optional.
               - ❌ Issues lacking detail or submitted for any other reason than to report bugs specific to the Elementor and Elementor Pro plugins may be closed without action.
@@ -19,6 +18,7 @@ body:
               - 🔍 **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[GitHub Labels](https://elemn.to/gh-labels)** to refine your serach.
               - 🆕 **Stay Up-to-date** <br>Ensure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and WordPress.em, and ensuring you have checked for potential solutions in the Elementor Help Center. <br>[Click here to start troubleshooting](https://elemn.to/help-troubleshooting).
               <br>
+
               #### 🐞 **Report only Elementor Bugs** <br>We only accept issues related to confirmed, and reproducible bugs in the code of the <ins>stable versions</ins> of the Elementor and Elementor Pro plugins.
               - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help anyone identify your issue at a glance without needing to read the description.
               - 💬 **Provide a Detailed Description** <br>Describe your problem in detail, provide links, screenshots, and screen recordings if possible.
