@@ -19,6 +19,7 @@ body:
               ### 🐞 **Report only Elementor-specific Bugs** 
               We can only process issues specifically related to bugs in the **<ins>stable versions</ins>** of the Elementor and Elementor Pro plugins.
               This includes only malfunctioning features, malfunctionling functionalities, and errors in the code of these plugins. <br>To save you time, ensure what you are reporting is not the intended behavior. You can check the **[Help Center](https://elemn.to/help)** to learn about all of Elementor's features and functionalities.
+              
               **When Reporting a Bug:**
               - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help anyone identify your issue at a glance without needing to read the description.
               - 💬 **Provide a Detailed Description** <br>Describe your problem in detail, provide links, screenshots, and screen recordings if possible.
