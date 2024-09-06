@@ -15,18 +15,20 @@ body:
               - 🔧 **Troubleshoot your issue [Click here to start troubleshooting](https://elemn.to/help-troubleshooting).** <br>Before submitting your issue, troubleshoot and validate it by isolating the problem, and ensuring you have checked for potential solutions in the **[Elementor Help Center](https://elemn.to/help).**
               - 🔍 **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[GitHub Labels](https://elemn.to/gh-labels)** to refine your serach.
               - 🆕 **Stay Up-to-date** <br>Ensure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and WordPress.
+              - 🙂 **Be Respectful and Constructive** <br>We embrace healthy conversations. However, we won't tolerate disrespectful, discriminatory, or offensive behavior. Offenders will be banned as outlined in our **[Code of Conduct](https://elemn.to/gh-code-of-conduct).**
               ### 🐞 **Report only Elementor-specific Bugs** 
-              We only accept issues related to confirmed, and reproducible bugs in the code of the **<ins>stable versions</ins>** of the Elementor and Elementor Pro plugins.
+              We can only process issues specifically related to bugs in the **<ins>stable versions</ins>** of the Elementor and Elementor Pro plugins.
+              This includes only malfunctioning features, malfunctionling functionalities, and errors in the code of these plugins. Ensure what you are reporting is not the intended behavior.
               - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help anyone identify your issue at a glance without needing to read the description.
               - 💬 **Provide a Detailed Description** <br>Describe your problem in detail, provide links, screenshots, and screen recordings if possible.
               - 👣 **Provide clear Steps to Reproduce** <br>Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our environment. 
               - ☝️ **One Bug per Thread** <br>If you are experiencing more than one bug, submit only **<ins>ONE BUG PER ISSUE</ins>**. <br>Issues with more than one reported bug may be closed without action.
               ### 👎 Dont's
-              - 🛟 **Don't use this form for Personal Support** <br>We are unable to process support requests here. If you need Help, Guidance, Assistance, or Personal Support, <br>**[Follow this guide](https://elemn.to/support-ticket).** <br>Support requests will be closed without action.
-              - ⁉️ **Don't use this form to report missing functionality** <br>If you are missing a functionality, please [submit a new Feature Request](https://elemn.to/gh-feature-requests) instead.
+              - 🛟 **Don't use this form for Personal Support** <br>We are unable to process personal support requests here. If you need Help, Guidance, Assistance, or Personal Support, **[Follow this guide](https://elemn.to/support-ticket).** <br>Support requests will be closed without action.
+              - 🚀 **Don't use this form to report missing functionality** <br>If you are missing a functionality, please [submit a new Feature Request](https://elemn.to/gh-feature-requests) instead.
               - 🧩 **Don't use this form to report issues with 3rd-Party software or custom code** <br>We do not provide solutions for custom code, 3rd-party add-ons, extensions, and other plugins or themes that Elementor does not offer official integration. <br>3rd-Party issue or code snippet reports will be closed without action.
               - 🛡️ **Don't use this form to report Security Vulnerabilities** <br>We are unable to process security vulnerabilities in this repository. If you wish to report one please follow our **[Security Policy](https://elemn.to/gh-security)** to ensure your report is processed in a responsible manner. <br>Security reports will be closed without action.
-              - 🗣️ **Don't use this form to submit complaints** <br>We are unable to process complaints here. If you wish to file a complaint against the Elementor company, its products, services, or employees, <br>**[Submit a Support Ticket](https://elemn.to/support-ticket)! <br>Complaints will be closed without action.**
+              - 🗣️ **Don't use this form to submit complaints** <br>We are unable to process complaints here. If you wish to file a complaint against the Elementor company, its products, services, or employees, <br>**[Submit a Support Ticket](https://elemn.to/support-ticket)** instead. <br>Complaints will be closed without action.
               <br>
 
               ----
