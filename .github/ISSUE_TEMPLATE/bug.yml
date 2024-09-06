@@ -56,9 +56,9 @@ body:
       attributes:
           label: "Isolating the problem"
           options:
-              - label: "I have isolated the problem, and this bug happens when only the Elementor (and Elementor Pro) plugins are active."
+              - label: "I have isolated the problem, and this bug happens when **only the Elementor (and Elementor Pro) plugins are active.**"
                 required: true
-              - label: "I have isolated the problem, and this bug happens with the Hello Elementor theme active."
+              - label: "I have isolated the problem, and this bug happens when the **Hello Elementor theme is active.**"
                 required: true
               - label: "I can reproduce this bug consistently by following the steps I am describing below."
                 required: true
