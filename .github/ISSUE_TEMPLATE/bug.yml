@@ -57,11 +57,6 @@ body:
                 required: true
               - label: "I can reproduce this bug consistently by following the steps I described above."
                 required: true
-    - type: markdown
-      attributes:
-          value: |
-          <br>
-
     - type: textarea
       id: description
       validations:
@@ -70,11 +65,6 @@ body:
           label: "Description"
           description: "Please help us understand in detail what problems you are experiencing. Provide links, screenshots, and screen recordings if possible."
           placeholder: "Examples: \nWhen I try to edit a Product Template with Elementor Pro...; \nThe {feature} is not working as indicated in the Documentation on the Help Center... \nThe styles of the {widget} are not applying correctly..."
-    - type: markdown
-      attributes:
-          value: |
-          <br>
-          
     - type: textarea
       id: steps_to_reproduce
       validations:
@@ -83,11 +73,6 @@ body:
           label: "Steps to reproduce"
           description: "Provide steps that we can recreate on our own."
           placeholder: "Examples: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the widget... \n4. Save the post and click on preview..."
-    - type: markdown
-      attributes:
-          value: |
-          <br>
-          
     - type: textarea
       id: expected_behavior
       validations:
