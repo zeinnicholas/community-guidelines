@@ -12,11 +12,11 @@ body:
               - ❌ Issues lacking detail or submitted for any other reason than to report bugs specific to the Elementor and Elementor Pro plugins **may be closed without action.**
               ## Do's and Dont's
               ### 👍 Do's
-              - 🔧 **Troubleshoot your issue** <br>Before submitting your issue, troubleshoot and validate it by isolating the problem, and ensuring you have checked for potential solutions in the **[Elementor Help Center](https://elemn.to/help).**
+              - 🔧 **Troubleshoot your issue** <br>Before submitting your issue, troubleshoot and validate it by isolating the problem, and ensuring you have checked for potential solutions in the **[Elementor Help Center](https://elemn.to/help).** <br>**[Click here to start troubleshooting](https://elemn.to/help-troubleshooting).**
               - 🔍 **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[GitHub Labels](https://elemn.to/gh-labels)** to refine your serach.
-              - 🆕 **Stay Up-to-date** <br>Ensure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and WordPress. <br>**[Click here to start troubleshooting](https://elemn.to/help-troubleshooting).**
+              - 🆕 **Stay Up-to-date** <br>Ensure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and WordPress.
               ### 🐞 **Report only Elementor-specific Bugs** 
-              We only accept issues related to confirmed, and reproducible bugs in the code of the <ins>stable versions</ins> of the Elementor and Elementor Pro plugins.
+              We only accept issues related to confirmed, and reproducible bugs in the code of the **<ins>stable versions</ins> **of the Elementor and Elementor Pro plugins.
               - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help anyone identify your issue at a glance without needing to read the description.
               - 💬 **Provide a Detailed Description** <br>Describe your problem in detail, provide links, screenshots, and screen recordings if possible.
               - 👣 **Provide clear Steps to Reproduce** <br>Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our environment. 
