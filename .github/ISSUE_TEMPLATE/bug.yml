@@ -18,7 +18,8 @@ body:
               - 🙂 **Be Respectful and Constructive** <br>We embrace healthy conversations. However, we won't tolerate disrespectful, discriminatory, or offensive behavior. Offenders may be banned as outlined in our **[Code of Conduct](https://elemn.to/gh-code-of-conduct).**
               ### 🐞 **Report only Elementor-specific Bugs** 
               We can only process issues specifically related to bugs in the **<ins>stable versions</ins>** of the Elementor and Elementor Pro plugins.
-              This includes only malfunctioning features, malfunctionling functionalities, and errors in the code of these plugins. Ensure what you are reporting is not the intended behavior of the feature or functionality you're reporting an issue. You can check the **[Help Center](https://elemn.to/help)** to learn about all of Elementor's features and functionalities.
+              This includes only malfunctioning features, malfunctionling functionalities, and errors in the code of these plugins. <br>To save you time, ensure what you are reporting is not the intended behavior. You can check the **[Help Center](https://elemn.to/help)** to learn about all of Elementor's features and functionalities.
+              **When Reporting a Bug:**
               - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help anyone identify your issue at a glance without needing to read the description.
               - 💬 **Provide a Detailed Description** <br>Describe your problem in detail, provide links, screenshots, and screen recordings if possible.
               - 👣 **Provide clear Steps to Reproduce** <br>Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our environment. 
@@ -59,7 +60,7 @@ body:
                 required: true
               - label: "I have isolated the problem, and this bug happens with the Hello Elementor theme active."
                 required: true
-              - label: "I can reproduce this bug consistently by following the steps I described above."
+              - label: "I can reproduce this bug consistently by following the steps I am describing below."
                 required: true
     - type: textarea
       id: description
@@ -68,14 +69,14 @@ body:
       attributes:
           label: "Description"
           description: "Please help us understand in detail what problems you are experiencing. Provide links, screenshots, and screen recordings if possible."
-          placeholder: "Examples: \nWhen I try to edit a Product Template with Elementor Pro...; \nThe {feature} is not working as indicated in the Documentation on the Help Center... \nThe styles of the {widget} are not applying correctly..."
+          placeholder: "Examples: \nWhen I try to edit a Product Template with Elementor Pro... \nThe {feature} is not working as indicated in the Documentation on the Help Center... \nThe styles of the {widget} are not applying correctly..."
     - type: textarea
       id: steps_to_reproduce
       validations:
           required: true
       attributes:
           label: "Steps to reproduce"
-          description: "Provide steps that we can recreate on our own."
+          description: "Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our own environment."
           placeholder: "Examples: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the widget... \n4. Save the post and click on preview..."
     - type: textarea
       id: expected_behavior
