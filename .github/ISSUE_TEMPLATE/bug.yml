@@ -33,8 +33,8 @@ body:
               <br>
 
               ----
-              ### ⛔ To save you time, do not continue if your issue doesn't comply with these guidelines. 
-              If you're not sure if your issue comply with these guidelines, then you should **[try Elementor Support first](https://elemn.to/support-ticket).**
+              ### 🛑 To save you time, do not continue if your issue doesn't comply with these guidelines. 
+              If you're not sure if your issue comply with these guidelines, then you should **[try contacting Elementor Support first](https://elemn.to/support-ticket).**
               ⚠️ As a gentle reminder, we may close issues that do not comply with these guidelines without any action.
 
               ----
@@ -56,11 +56,11 @@ body:
       attributes:
           label: "Isolating the problem"
           options:
-              - label: "I have isolated the problem, and this bug happens when **only the Elementor (and Elementor Pro) plugins are active.**"
+              - label: "I have isolated the problem and **this bug happens with only the Elementor (and Elementor Pro) plugins installed and active.**"
                 required: true
-              - label: "I have isolated the problem, and this bug happens when the **Hello Elementor theme is active.**"
+              - label: "I have isolated the problem and **this bug happens with the Hello Elementor theme installed and active.**"
                 required: true
-              - label: "I can reproduce this bug consistently by following the steps I am describing below."
+              - label: "I can reproduce this bug consistently by following the steps described below."
                 required: true
     - type: textarea
       id: description
