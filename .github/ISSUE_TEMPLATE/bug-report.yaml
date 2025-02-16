@@ -5,37 +5,44 @@ body:
     - type: markdown
       attributes:
           value: |
-              ### 👋 Hello, thank you for contributing to Elementor!
-              <br>
-              
-              ### ⚠️ ATTENTION! Before posting, please, follow these guidelines!
+              ### 👋 Hello, thank you for contributing to Elementor! <br> ⚠️ Before posting, please, follow these guidelines!
               <br>
 
-              ### 🐞 While we welcome contributions, please only use this form to report Bugs in Elementor that you have troubleshooted, and can confirm, and reproduce consistently.
+              ### 🐞 While we welcome contributions, please only use this form to report Bugs in Elementor that you have troubleshooted, isolated, and can reproduce consistently.
+              ❌ Issues lacking detail, required information, or submitted for any other reason than to report confirmed bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
               <br>
               
               ### *️⃣ All fields are required, without execption.
               - 💾 The [Elementor System Info](https://elemn.to/help-system-info) **<ins>is not optional.</ins>**
-              - 🧩 We do not provide solutions for 3rd-party code, add-ons, extensions, plugins or themes that Elementor does not offer official integration.
-              - ❌ Issues lacking detail, required information, or submitted for any other reason than to report confirmed bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
+              - 🧩 We do not provide solutions or support for 3rd-party code, add-ons, extensions, plugins or themes that Elementor does not offer official integration. In this case contact their support instead.
               <br>
               
               ### 🛟 Need Help, Guidance, Assistance, or Personal Support? [Click here to learn how to get Personal Support](https://elemn.to/support-ticket).
-              ### 🔧 Before submitting your issue, troubleshoot and validate it. [Click here to start troubleshooting common Elementor issues.](https://elemn.to/help-troubleshooting).
+              ### 🔧 Before submitting your issue, troubleshoot and validate it. [Click here to start troubleshooting common issues.](https://elemn.to/help-troubleshooting).
+              ### 🛡️ For Security Reports, please follow our [Security Policy](https://elemn.to/gh-security-policy). Do not post Security Reports here.
+              <br>
+
+              ### 😉 Follow these best practices to help save time
+
+              - ✒️ **Clear and concise title:** Please provide a clear and concise title that gives context to your issue.
+
+              - 💬 **Description:** In your description, provide examples, screenshots, and screen recordings (just drag and drop in the field), and save time by describing in detail what happened. The more information you provide, the faster we can find a solution!
+
+              - 👣 **Steps to replicate:** Think of it as explaining to someone over the phone how to replicate your issue. They can't see the problem, so explain it in detail in a way that we can try to replicate your issue in our environments. Be thorough.
+
+              - 🗑️ **Clear the cache:** Ensure all levels of cache have been purged, cleared, and deactivated to avoid interferance. This includes but is not limited to server cache, site cache, CDN cache, and browser cache.
+
+              - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, so we can properly track them and reference them without any confusion.
               <br>
               
 
               **ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing).** We expect you to follow them while submitting your issue.
               <br>
 
-              ### 😉 Follow these best practices to help save time
-              - 🔍 **Search Before Posting** <br>Please **[search for similar issues](https://elemn.to/gh-issues)** (both open and closed) to prevent creating duplicates. <br>Use **[GitHub Labels](https://elemn.to/gh-labels)** to refine your search.
-              - 🆕 **Stay Up-to-date** <br>Ensure you are using the **[most recent and stable versions](https://elemn.to/changelog)** of Elementor (and Elementor Pro), as well as all installed plugins, themes, and WordPress.
-              - ✒️ **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needing to read the description.
-              - ☝️ **One Bug per Thread** <br>If you are experiencing more than one bug, submit only **<ins>ONE BUG PER ISSUE</ins>**. <br>Issues with more than one reported bug may be closed without action.
-              <br>
-
-              ### THE ISSUE
+              ## THE ISSUE
+              ### 📋 Prerequisites
+              - 🔍 **Search Before Posting:** Before creating a new Bug Report, please **[search for similar issues](https://github.com/elementor/elementor/issues/)** to prevent unecessary duplicates. <br>Use **[GitHub Labels](https://elemn.to/gh-labels)** to refine your search.
+              - 🆕 **Stay Up-to-date** <br>Ensure you are using the **[most recent and stable versions of Elementor (and Elementor Pro)](https://elemn.to/changelog)**, as well as all installed plugins, themes, and even WordPress.
     - type: checkboxes
       id: prerequisites
       attributes:
