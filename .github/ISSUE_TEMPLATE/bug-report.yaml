@@ -1,4 +1,4 @@
-name: "🐞 Bug Report"
+name: "🐞 Report a Bug in Elementor"
 description: "Did you find a bug in the source code of Elementor, and can reproduce it consistently after troubleshooting it? Report it here."
 labels: ["status/awaiting_triage"]
 body:
