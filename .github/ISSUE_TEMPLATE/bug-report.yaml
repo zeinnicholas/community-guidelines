@@ -11,13 +11,16 @@ body:
               ### ⚠️ Before posting, please, follow these guidelines:
               <br>
 
-              ### This Form is exclusive for Elementor Bugs 
-              - 🐞 While we welcome contributions, please only use this form to report Bugs in Elementor that you have troubleshooted, isolated, and can reproduce consistently.
-              - *️⃣ All fields are required, <ins>without execption</ins>.
-              - ⚠️ 💾 The **[Elementor System Info](https://elemn.to/help-system-info) <ins>is not optional.</ins>**
-              #### ❌ Invalid Issues will be closed 
-              - Issues lacking detail, required information, or submitted for any other reason than to report confirmed bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
-              - ⛔ 🧩 We do not provide solutions or support for 3rd-party code, add-ons, extensions, plugins or themes that Elementor does not offer official integration. In this case contact their support instead.
+              ### This Form is exclusive for Elementor Bug Reports 
+              - 🐞 **While we welcome contributions, please only use this form to report Bugs in Elementor that you have troubleshooted, isolated, and can reproduce consistently.**
+              - *️⃣ **All fields are required, <ins>without execption</ins>.**
+              - 💾 **The [Elementor System Info](https://elemn.to/help-system-info) <ins>is not optional.</ins>**
+              <br>
+
+              ### Invalid Issues will be closed 
+              - 🛟 Support Requests will be closed without any action.
+              - ❌ Issues lacking detail, required information, or submitted for any other reason other than to report confirmed bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
+              - 🧩 We do not provide solutions or support for 3rd-party code, addons, extensions, plugins or themes that Elementor does not offer official integration. In this case contact their support instead.
               <br>
 
               ### Follow these best practices to help save time
@@ -34,7 +37,8 @@ body:
               - 🛡️ For Security Reports, please follow our [Security Policy](https://elemn.to/gh-security-policy). Do not post Security Reports here.
               <br>
 
-              ### ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing). <ins>We expect you to follow them while submitting your issue.</ins>
+              ### ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing). 
+              **<ins>We expect you to follow them while submitting your issue.</ins>**
               <br>
 
               ----
