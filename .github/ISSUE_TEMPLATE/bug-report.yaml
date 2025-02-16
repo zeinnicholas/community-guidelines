@@ -18,27 +18,27 @@ body:
               <br>
 
               ### ❌ Invalid Issues will be closed 
-              - 🛟 **Personal Support Requests will be closed without any action.** <br>We are unable to provide personal soupport from this repository.
+              - 🛟 **Personal Support Requests will be closed without any action.** <br>We are unable to provide personal soupport from this repository. Use the official support channels for personal support.
               - 🧩 **3rd-Party Software conflicts or bugs will be closed without any acion.** <br>We do not provide solutions or support for 3rd-party code (custom code), addons, extensions, plugins, themes, or services that Elementor does not offer official integration or support. In this case contact the 3rd-party sofware support instead.
               - 🐞 **Invalid Issues will be closed without any action.** <br>Issues lacking detail, without required information, or submitted for any other reason other than to report confirmed and reproducible bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
               <br>
 
               ### 💡 Follow these best practices to help save time
-              - ✒️ **Clear and concise title:** Please provide a clear and concise title that gives context to your issue.
-              - 💬 **Description:** In your description, provide examples, screenshots, and screen recordings (just drag and drop in the field), and save time by describing in detail what happened. The more information you provide, the faster we can find a solution!
-              - 👣 **Steps to replicate:** Think of it as explaining to someone over the phone how to replicate your issue. They can't see the problem, so explain it in detail in a way that we can try to replicate your issue in our environments. Be thorough.
-              - 🗑️ **Clear the cache:** Ensure all levels of cache have been purged, cleared, and deactivated to avoid interferance. This includes but is not limited to server cache, site cache, CDN cache, and browser cache.
-              - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, so we can properly track them and reference them without any confusion.
+              - ✒️ **Clear and concise title:** Please provide a clear and concise title that can be easily identifiable. Anyone must understand what the problem is by only reading the title.
+              - 💬 **Description:** In your description, provide examples, screenshots, and screen recordings (just drag and drop the files into the text field), and save time by describing in detail what happened. The more information you provide, the faster we can find a solution!
+              - 👣 **Steps to reproduce:** We need to be able to reproduce your issue consistently in order to validate it. Provide all the steps that you took to experience the issue so we can reproduce it on own. Don't leave anything out. If we can't reproduce it, we will close the issue.
+              - 🗑️ **Clear the cache:** Ensure all levels of cache have been purged, cleared, and deactivated to avoid interferances or conflicts. This includes but is not limited to server cache, site cache, CDN cache, and browser cache.
+              - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, so we can properly track them and reference them without any confusion. Issues with multiple reports will be closed.
               <br>
               
               ### 🔗 Quick links
               - 🛟 Need Help, Guidance, Assistance, or Personal Support? [Click here to learn how to get Personal Support](https://elemn.to/support-ticket).
               - 🔧 Before submitting your issue, troubleshoot and validate it. [Click here to start troubleshooting common issues](https://elemn.to/help-troubleshooting).
               - 🛡️ For Security Reports, please follow the instructions in our [Security Policy](https://elemn.to/gh-security-policy). Do not post Security Reports here.
-              - 📚 For extending Elementor, please [visit our Developers Center](https://elemn.to/gh-to-dev-center).
+              - 📚 For information about extending Elementor, please [visit our Developers Center](https://elemn.to/gh-to-dev-center).
               <br>
 
-              ### ℹ️ For more information please read our [Contribution Guidelines](https://elemn.to/gh-contributing). 
+              ### ℹ️ For more information about how to contribute, please read our [Contribution Guidelines](https://elemn.to/gh-contributing). 
               **<ins>We expect you to follow them while submitting your issue.</ins>**
               <br>
 
