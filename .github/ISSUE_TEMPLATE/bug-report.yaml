@@ -25,18 +25,18 @@ body:
               <br>
 
               ### 💡 Follow these best practices to help save time
-              - ✒️ **Clear and concise title:** Please provide a clear and concise title that can be easily identifiable. Anyone must understand what the problem is by only reading the title.
-              - 💬 **Description:** In your description, provide examples, screenshots, and screen recordings (just drag and drop the files into the text field), and save time by describing in detail what happened. The more information you provide, the faster we can find a solution!
-              - 👣 **Steps to reproduce:** We need to be able to reproduce your issue consistently in order to validate it. Provide all the steps that you took to experience the issue so we can reproduce it on own. Don't leave anything out. If we can't reproduce it, we will close the issue.
-              - 🗑️ **Clear the cache:** Ensure all levels of cache have been purged, cleared, and deactivated to avoid interferances or conflicts. This includes but is not limited to server cache, site cache, CDN cache, and browser cache.
-              - ☝️ **One Issue Per Thread:** If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, so we can properly track them and reference them without any confusion. Issues with multiple reports will be closed.
+              - ✒️ **Always Provide a Clear and concise Title.** <br>Please provide a clear and concise title that can be easily identifiable. Anyone must understand what the problem is by only reading the title.
+              - 💬 **Make a Detailed Description.** <br>In your description, provide examples, screenshots, and screen recordings (just drag and drop the files into the text field), and save time by describing in detail what happened. The more information you provide, the faster we can find a solution!
+              - 👣 **List all the Steps to Reproduce your Issue.** <br>We need to be able to reproduce your issue consistently in order to validate it. Provide all the steps that you took to experience the issue so we can reproduce it on own. Don't leave anything out. If we can't reproduce it, we will close the issue.
+              - 🗑️ **Clear All Levels of Cache.** <br>Ensure all levels of cache have been purged, cleared, and deactivated to avoid interferances or conflicts. This includes but is not limited to server cache, site cache, CDN cache, and browser cache.
+              - ☝️ **Write Only One Issue Per Thread.** <br>If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, so we can properly track them and reference them without any confusion. Issues with multiple reports will be closed.
               <br>
               
               ### 🔗 Quick links
-              - 🛟 Need Help, Guidance, Assistance, or Personal Support? [Click here to learn how to get Personal Support](https://elemn.to/support-ticket).
-              - 🔧 Before submitting your issue, troubleshoot and validate it. [Click here to start troubleshooting common issues](https://elemn.to/help-troubleshooting).
-              - 🛡️ For Security Reports, please follow the instructions in our [Security Policy](https://elemn.to/gh-security-policy). Do not post Security Reports here.
-              - 📚 For information about extending Elementor, please [visit our Developers Center](https://elemn.to/gh-to-dev-center).
+              - 🛟 Need Help, Guidance, Assistance, or **Personal Support**? [Click here to learn how to get Personal Support](https://elemn.to/support-ticket).
+              - 🔧 Before submitting your issue, **troubleshoot and validate it.** [Click here to start troubleshooting common issues](https://elemn.to/help-troubleshooting).
+              - 🛡️ For **Security Reports**, please follow the instructions in our [Security Policy](https://elemn.to/gh-security-policy). Do not post Security Reports here.
+              - 📚 For information about **extending Elementor**, please [visit our Developers Center](https://elemn.to/gh-to-dev-center).
               <br>
 
               ### ℹ️ For more information about how to contribute, please read our [Contribution Guidelines](https://elemn.to/gh-contributing). 
@@ -110,8 +110,8 @@ body:
               <br>
 
               ### 🕵️ Isolate the problem and Validate your issue
-              - Deactivate all plugins _**except Elementor (and Elementor Pro)**_, and temporarily change the theme to the **[Hello Elementor theme](https://wordpress.org/themes/hello-elementor/)**.
-              - Verify if your problem happens when only the Elementor (and Elementor Pro) plugins are active while also using the Hello Elementor theme.
+              - Deactivate all plugins _**except Elementor (and Elementor Pro)**_, and temporarily change the theme to the **[Hello Elementor themes](https://wordpress.org/themes/hello-elementor/)**.
+              - Verify if your problem happens when only the Elementor (and Elementor Pro) plugins are active while also using the Hello Elementor themes.
               - If the issue can't be recreated consistently or reproduced following the steps above, it's likely **not an Elementor bug**. <br>In that case, use the **[support link](https://elemn.to/support-ticket)** at the top of this form, or **[troubleshoot your issue again](https://elemn.to/help-troubleshooting)**.
     - type: checkboxes
       id: isolating_the_problem
