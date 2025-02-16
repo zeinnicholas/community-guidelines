@@ -8,7 +8,9 @@ body:
               **👋 Welcome! Thank you for contributing!**
               <br>
 
-              ## ⚠️ ATTENTION! Before continuing, please, read these instructions carefully:
+              > [!WARNING]
+              >  ## ⚠️ ATTENTION! Before continuing, please, read these instructions carefully!
+              > _Failing to follow these guidelines may result in closing your issue without any action._
               <br>
 
               ### 🐞 This Form is exclusive for reporting <ins>Confirmed Bugs</ins> in the Elementor, and Elementor Pro plugins
