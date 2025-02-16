@@ -22,7 +22,7 @@ body:
               ### ❌ Invalid Issues will be closed
               - 🛟 **Personal Support Requests will be closed without any action.** <br>We are unable to provide personal soupport from this repository. Use the official support channels if you need assistance.
               - 🧩 **3rd-Party Software conflicts or bugs will be closed without any action.** <br>We do not provide solutions or support for 3rd-party code (custom code), addons, extensions, plugins, themes, or services that Elementor does not offer official integration or support. In this case contact the 3rd-party sofware support instead.
-              - ☹️ **Complaints will be closed without any action.** <br>This is not the place for submitting this kind of feedback. We are unable to track them. Reach out to Elementor Support instead.
+              - ☹️ **Complaints will be closed without any action.** <br>This is not the place for submitting this kind of feedback. We are unable to track them and take action. Reach out to Elementor Support instead.
               - 🐞 **Invalid Issues will be closed without any action.** <br>Issues lacking detail, without required information, or submitted for any other reason other than to report confirmed and reproducible bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
               <br>
 
