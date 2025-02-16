@@ -6,7 +6,6 @@ body:
       attributes:
           value: |
               ## ⚠️ Attention! Before continuing, please, read these Instructions carefully.
-              <br>
 
               ### 🐞 This Form is exclusive for Elementor Bug Reports 
               **While we welcome contributions, please only use this form to report Bugs in the Elementor Editor that you have troubleshooted, isolated, and can reproduce consistently.**
