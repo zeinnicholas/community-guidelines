@@ -29,7 +29,7 @@ body:
               - 💬 **Make a Detailed Description.** <br>In your description, provide examples, screenshots, and screen recordings (just drag and drop the files into the text field), and save time by describing in detail what happened. The more information you provide, the faster we can find a solution!
               - 👣 **List all the Steps to Reproduce your Issue.** <br>We need to be able to reproduce your issue consistently in order to validate it. Provide all the steps that you took to experience the issue so we can reproduce it on our own. Don't leave anything out. If we can't reproduce it, we will close the issue.
               - 🗑️ **Clear All Levels of Cache.** <br>Ensure all levels of cache have been purged, cleared, and deactivated to avoid interferances or conflicts. This includes but is not limited to server cache, site cache, CDN cache, and browser cache.
-              - ☝️ **Write Only One Issue Per Thread.** <br>If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, so we can properly track them and reference them without any confusion. Issues with multiple reports will be closed.
+              - ☝️ **Write Only One Issue Per Thread.** <br>If you are experiencing more than one bug, submit only **<ins>ONE ISSUE PER THREAD</ins>**, this way we can properly track them and reference them without any confusion. Issues with multiple reports will be closed.
               <br>
               
               ### 🔗 Quick links
