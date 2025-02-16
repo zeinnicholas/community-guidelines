@@ -8,16 +8,16 @@ body:
               **👋 Welcome! Thank you for contributing!**
               <br>
 
-              ## ⚠️ ATTENTION! Before continuing, please, read these instructions carefully.
+              ## ⚠️ ATTENTION! Before continuing, please, read these instructions carefully:
               <br>
 
-              ### 🐞 This Form is exclusive for reporting <ins>Confirmed Bugs</ins> in Elementor 
+              ### 🐞 This Form is exclusive for reporting <ins>Confirmed Bugs</ins> in the Elementor, and Elementor Pro plugins
               **While we welcome contributions, please only use this form to report Bugs in the Elementor Editor that you have troubleshooted, isolated, and can reproduce consistently.**
               - *️⃣ **All fields are required, <ins>without execption</ins>.**
               - 💾 **The [Elementor System Info](https://elemn.to/help-system-info) <ins>is not optional.</ins>**
               <br>
 
-              ### ❌ Invalid Issues will be closed 
+              ### ❌ Invalid Issues will be closed
               - 🛟 **Personal Support Requests will be closed without any action.** <br>We are unable to provide personal soupport from this repository. Use the official support channels for personal support.
               - 🧩 **3rd-Party Software conflicts or bugs will be closed without any acion.** <br>We do not provide solutions or support for 3rd-party code (custom code), addons, extensions, plugins, themes, or services that Elementor does not offer official integration or support. In this case contact the 3rd-party sofware support instead.
               - 🐞 **Invalid Issues will be closed without any action.** <br>Issues lacking detail, without required information, or submitted for any other reason other than to report confirmed and reproducible bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
