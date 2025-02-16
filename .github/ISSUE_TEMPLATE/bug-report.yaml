@@ -9,17 +9,18 @@ body:
               <br>
 
               ### ⚠️ Before posting, please, follow these guidelines:
-              #### 🐞 While we welcome contributions, please only use this form to report Bugs in Elementor that you have troubleshooted, isolated, and can reproduce consistently.
               <br>
 
-              ### ❌ Issues lacking detail, required information, or submitted for any other reason than to report confirmed bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
+              #### 🐞 This Form is exclusive for Elementor Bugs: <br>While we welcome contributions, please only use this form to report Bugs in Elementor that you have troubleshooted, isolated, and can reproduce consistently.
+              #### ❌ Invalid Issues will be closed: <br>Issues lacking detail, required information, or submitted for any other reason than to report confirmed bugs specific to the Elementor, and Elementor Pro plugins will be closed without any action.
               <br>
               
               ### *️⃣ All fields are required, <ins>without execption</ins>.
-              - #### ⚠️ 💾 The **[Elementor System Info](https://elemn.to/help-system-info) <ins>is not optional.</ins>**
-              - #### ⛔ 🧩 We do not provide solutions or support for 3rd-party code, add-ons, extensions, plugins or themes that Elementor does not offer official integration. In this case contact their support instead.
+              #### ⚠️ 💾 The **[Elementor System Info](https://elemn.to/help-system-info) <ins>is not optional.</ins>**
+              #### ⛔ 🧩 We do not provide solutions or support for 3rd-party code, add-ons, extensions, plugins or themes that Elementor does not offer official integration. In this case contact their support instead.
               <br>
               
+              ### 💡 Quick links
               #### 🛟 Need Help, Guidance, Assistance, or Personal Support? [Click here to learn how to get Personal Support](https://elemn.to/support-ticket).
               #### 🔧 Before submitting your issue, troubleshoot and validate it. [Click here to start troubleshooting common issues](https://elemn.to/help-troubleshooting).
               #### 🛡️ For Security Reports, please follow our [Security Policy](https://elemn.to/gh-security-policy). Do not post Security Reports here.
