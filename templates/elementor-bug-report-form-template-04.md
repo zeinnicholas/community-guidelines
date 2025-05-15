@@ -120,7 +120,7 @@ List all steps to reproduce the issue. Be specific! We need to follow the exact 
 ```
 
 ### Expected behavior*
-Explain what you expected to happen. Help us understand what you expected to happen and why. This helps us identify the root of the issue faster.
+Explain what you expected to happen. Help us understand what you believe the correct or intended behavior should be. This helps us identify the root of the issue faster.
 
 ```txt
 1. 
