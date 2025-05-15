@@ -25,7 +25,7 @@ Before getting started, please take a moment to review our **[Contribution Guide
 > Please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 components.
 > If your issue is unrelated to Editor V4 features, or if you're here for another reason please **[use our general 🐞 Bug Report form instead](#)**.
 >
-> Keep in mind the **Editor V4** is a work in progress and should not be used on production sites. It also might not meet all existing features of Elementor V3, and it may be susceptible to instabilities or changes.
+> Keep in mind the **Editor V4** is a work in progress and should not be used on production sites. It may not include all features from Elementor V3 and is subject to changes or instability during development.
 >
 > 🧪 For discussing and sharing feedback about the Editor V4, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](#)**
 >
@@ -38,7 +38,7 @@ Before getting started, please take a moment to review our **[Contribution Guide
 
 For a quick review and efficient resolution, please ensure your report meets the following requirements:
 
-- *️⃣ **All fields in this form are required.** — no exceptions. <br>Incomplete issues will be closed without further action.
+- *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
 
 - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[editor-v4](https://github.com/elementor/elementor/labels/product%2Feditor-v4)** label to narrow your search.
 
@@ -46,7 +46,7 @@ For a quick review and efficient resolution, please ensure your report meets the
 
 - 🕵️ **Test with only Elementor, Elementor Pro, and the Hello Theme active.** <br>Temporarily disable all other plugins and themes. This step helps confirm that the issue is not being caused by a 3rd-party conflict. <br>👉 Reference: **[Troubleshooting the Editor](https://elemn.to/help-troubleshooting)**
 
-- 💾 **Copy & Paste your complete Elementor System Info.** <br>This is not optional and helps us better reproduce and understand your issue. Reports without the full Elementor System Info will be closed. <br>👉 Learn how to copy it here: **[Share system information with Elementor](https://elemn.to/help-system-info)**
+- 💾 **Copy and paste your complete Elementor System Info.** <br>This is not optional and helps us better reproduce and understand your issue. Reports without the full Elementor System Info will be closed. <br>👉 Learn how to copy it here: **[Share system information with Elementor](https://elemn.to/help-system-info)**
 
 - 🪪 **If you’re a 3rd-party developer**, please introduce yourself. <br>Include your name, company, product name, and a way for us to contact you (such as an email address) if needed. <br>This helps us collaborate more effectively.
 
@@ -93,7 +93,7 @@ To make it easier for the team to understand and resolve your issue, please foll
 > The form starts here. All sections below this note represent the actual fields in the form.
 
 ### Description*
-Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below.
+Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below.
 
 ```txt
 Leave a comment
@@ -130,7 +130,7 @@ Explain what you expected to happen. Help us understand what you believe the cor
 ```
 
 ### Agreement*
-By filling this form you confirm that you have read and followed the guidelines and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them.
+By filling out this form, you confirm that you have read and followed the guidelines and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them.
 
 - [ ] I confirm I have read and followed all the guidelines and instructions outlined in the Editor V4 Bug Report form.
 - [ ] I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Editor V4 Bug Report form.
