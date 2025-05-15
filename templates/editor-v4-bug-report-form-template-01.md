@@ -5,35 +5,31 @@
 >
 > This is just a preview, and this note will not be part of the final form.
 
-# 🐞 Report a Confirmed Bug in Elementor
+# 🐛 Report a Confirmed Bug in Elementor Editor V4
 <br>
 
-👋 **Hello, welcome to Elementor's repository!**
+👋 **Welcome, and thank you for helping shape the future of Elementor!**
 
-Thank you for contributing — your input helps make **Elementor** better for everyone!
+We’re excited to introduce the **Editor V4** — a refreshed foundation for the Elementor Editor that improves performance, responsiveness, and workflow experience.
+
+Your feedback is incredibly valuable. Use this form to report bugs related to Editor V4’s experimental features. Every report helps us create a better product before its full release.
 <br>
 <br>
 
 ## 🧭 Guidelines
 
-Before you begin, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These documents are here to help ensure this repository remains a respectful, organized, and welcoming space for everyone.
+Before getting started, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These help us keep this space respectful, organized, and inclusive for everyone.
 
 > [!IMPORTANT]
-> ### 🐞 This form is specifically for <ins>reporting confirmed Elementor bugs</ins>.
-> We welcome your input, but please **only use this form if you've already investigated and validated that the issue is caused by Elementor itself**.
-> If you’re here for another reason, please use one of the 🔗 **Quick Links** at the end of this form.
-> 
-> Take a look at the 🎯 **Scope** section below to understand which types of reports are not handled here.
+> ### 🐛 This form is for reporting confirmed bugs in Editor V4 experimental features only.
+> Please **only use this form if you've already investigated and validated that the issue is caused by Editor V4 components only**.
+> If your issue is unrelated to Editor V4 features, or if you're here for another reason please **[use our general 🐞 Bug Report form instead](#)**.
 >
-> ⚠️ _**Submitting unrelated or incomplete issues may result in them being closed without further action.**_
-<br>
-
-> [!NOTE]
-> ### 🧪 Elementor Editor V4
-> If you are testing the new **[Editor V4](https://elementor.com/editor-v4)** experimental features and wish to report bugs or share feedback, please use one of the forms below:
-> 
-> 🐞 **[Report bugs specific to Editor V4](#)**  
-> 🗣️ **[Discuss Editor V4 features](#)**
+> Keep in mind the **Editor V4** is a work in progress and should not be used on production sites. It also might not meet all existing features of Elementor V3, and it may be succeptible to instabilities or changes.
+>
+> 🧪 For discussing and sharing feedback about the Editor V4, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](#)**
+>
+> ⚠️ _**Reports unrelated to Editor V4 or missing required information may be closed without further action.**_
 <br>
 
 ### 📋 Requirements
@@ -42,9 +38,7 @@ For a quick review and efficient resolution, please ensure your report meets the
 
 - *️⃣ **All fields in this form are required.** — no exceptions. <br>Incomplete issues will be closed without further action.
 
-- 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[filters at the top of the Issues list](#)** to narrow your search.
-
-- 🆕 **Ensure you have the latest stable versions installed.** <br>Including Elementor, Elementor Pro, WordPress core, your active theme, and all installed plugins. <br>👉 Stay updated: **[Elementor Changelogs](https://elemn.to/changelog)**
+- 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[editor-v4](https://github.com/elementor/elementor/labels/product%2Feditor-v4)** label to narrow your search.
 
 - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by stale or cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache — in that order.
 
@@ -61,6 +55,8 @@ For a quick review and efficient resolution, please ensure your report meets the
 ### 🎯 Scope
 
 To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**. 
+
+- 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features of Elementor V3, please **[use our general 🐞 Bug Report form instead](#)**.
 
 - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact our **[official support channels](https://elemn.to/support-ticket)**.
 
@@ -141,6 +137,8 @@ By filling this form you confirm that you have read and followed the guidelines 
 ## 🔗 Quick Links
 
 Need something else? These links will help you get support, learn, or contribute in the right place:
+
+- 🧪 **Discuss the Editor V4** — Share your feedback! <br>[https://elemn.to/editor-v4-discussion](#)
 
 - 🛟 **Get Personal Support** — Need help or guidance? <br>https://elemn.to/support-ticket
 
