@@ -5,7 +5,7 @@
 >
 > This is just a preview, and this note will not be part of the final form.
 
-# 🧪 Editor V4 Discussion
+# 🧪 Editor V4 Discussions form
 <br>
 
 👋 **Welcome, and thank you for helping shape the future of Elementor!**
