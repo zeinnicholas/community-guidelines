@@ -16,7 +16,7 @@ Thank you for contributing — your input helps make **Elementor** better for ev
 
 ## 🧭 Guidelines
 
-Before you begin, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These documents are here to help ensure this repository remains a respectful, organized, and welcoming space for everyone.
+Before getting started, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These help us keep this space respectful, organized, and inclusive for everyone.
 
 > [!IMPORTANT]
 > ### 🐞 This form is specifically for <ins>reporting confirmed Elementor bugs</ins>.
