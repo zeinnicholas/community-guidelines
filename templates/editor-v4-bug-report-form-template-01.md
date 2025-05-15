@@ -164,7 +164,7 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 🧪 **Editor V4 Discussion** — Share your feedback! [https://elemn.to/editor-v4-discussion](#)
 
-- ❔ **Editor V4 FAQ** — Read the most frequent questions about Editor V4. [https://elemn.to/editor-v4-faq](#)
+- ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
 
 - 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
 
