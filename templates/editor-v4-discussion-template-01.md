@@ -5,7 +5,7 @@
 >
 > This is just a preview, and this note will not be part of the final form.
 
-# 🧪 Editor V4 Discussions form
+# 🧪 Editor V4 Discussion Form
 <br>
 
 👋 **Welcome, and thank you for helping shape the future of Elementor!**
@@ -14,7 +14,7 @@ We’re thrilled to have you here testing **Editor V4** — a major evolution of
 
 This space is for sharing your thoughts, insights, and suggestions about Editor V4's experimental features. Your feedback is incredibly valuable and helps guide the direction of the product during its development.
 
-Want to learn more about the Editor V4? **[Visit our Editor V4 landing page](https://elemn.to/editor-v4)**, it will be updated regularly!
+Want to learn more about Editor V4? **[Visit our Editor V4 landing page](https://elemn.to/editor-v4)**, it will be updated regularly!
 <br>
 <br>
 
@@ -29,16 +29,16 @@ Before getting started, please review our **[Contribution Guidelines](#)** and *
 > Keep in mind that the **Editor V4** is still in early development — it may not include all existing features from Elementor V3 and is subject to change or instability.  
 > For common questions, check the ❔ **[Editor V4 FAQ](#)**.  
 > 
-> If your topic is unrelated to Editor V4, please refer to the 🔗 **Quick Links** at the end of this form to find the right place to share it.
+> If your topic is not related to Editor V4, please use one of the 🔗 **Quick Links** below to find the right space for it.
 <br>
 
 ## 💡 Help Us Keep Discussions Organized
 
-- 🔍 **Search for existing discussions** <br>Someone may have already started a thread on your topic. Add your thoughts there to keep conversations centralized.
+- 🔍 **Search for existing discussions.** <br>Someone may have already started a thread on your topic. Add your thoughts there to keep conversations centralized.
 
-- ✒️ **Write a clear and descriptive title** <br>A good title helps others quickly understand what your post is about.
+- ✒️ **Use a clear and descriptive title.** <br>A good title helps others quickly understand what your post is about.
 
-- ☝️ **Stick to one topic per discussion thread** <br>This makes it easier to track feedback and follow up on specific subjects.
+- ☝️ **Stick to one topic per discussion thread.** <br>This makes it easier to track feedback and follow up on specific subjects.
 
 > [!NOTE]
 > The form starts here. All sections below this note represent the actual fields in the form.
@@ -57,7 +57,7 @@ Leave a comment
 ```
 
 ### Agreement*
-By filling this form you confirm that you have read the guidelines outlined above, and you agree that your discussion may be closed without warning if it doesn't meet them.
+By filling out this form, you confirm that you have read the guidelines outlined above, and you agree that your discussion may be closed without warning if it doesn't meet them.
 
 - [ ] I confirm I have read and followed the guidelines, and agree this discussion may be closed without warning.
 
@@ -86,9 +86,9 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
 
-- 🐛 **Editor V4 Bug Reports** — Share your feedback! [https://elemn.to/editor-v4-bugs](#)
+- 🐛 **Editor V4 Bug Reports** — Report issues with **Editor V4**. [https://elemn.to/editor-v4-bugs](#)
 
-- ❔ **Editor V4 FAQ** — Read the most frequent questions about the Editor V4 [https://elemn.to/editor-v4-faq](#)
+- ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
 
 - 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
 
