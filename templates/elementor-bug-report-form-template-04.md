@@ -40,7 +40,7 @@ Before getting started, please take a moment to review our **[Contribution Guide
 
 For a quick review and efficient resolution, please ensure your report meets the following requirements:
 
-- *️⃣ **All fields in this form are required.** — no exceptions. <br>Incomplete issues will be closed without further action.
+- *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
 
 - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[filters at the top of the Issues list](#)** to narrow your search.
 
@@ -50,7 +50,7 @@ For a quick review and efficient resolution, please ensure your report meets the
 
 - 🕵️ **Test with only Elementor, Elementor Pro, and the Hello Theme active.** <br>Temporarily disable all other plugins and themes. This step helps confirm that the issue is not being caused by a 3rd-party conflict. <br>👉 Reference: **[Troubleshooting the Editor](https://elemn.to/help-troubleshooting)**
 
-- 💾 **Copy & Paste your complete Elementor System Info.** <br>This is not optional and helps us better reproduce and understand your issue. Reports without the full Elementor System Info will be closed. <br>👉 Learn how to copy it here: **[Share system information with Elementor](https://elemn.to/help-system-info)**
+- 💾 **Copy and paste your complete Elementor System Info.** <br>This is not optional and helps us better reproduce and understand your issue. Reports without the full Elementor System Info will be closed. <br>👉 Learn how to copy it here: **[Share system information with Elementor](https://elemn.to/help-system-info)**
 
 - 🪪 **If you’re a 3rd-party developer**, please introduce yourself. <br>Include your name, company, product name, and a way for us to contact you (such as an email address) if needed. <br>This helps us collaborate more effectively.
 
