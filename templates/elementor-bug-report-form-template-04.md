@@ -87,7 +87,7 @@ To make it easier for the team to understand and resolve your issue, please foll
 
 - 💬 **Describe the issue in detail.** <br>Include as much context as you can. What happened? When did it start? What page or feature does it affect? <br>Feel free to attach screenshots or screen recordings — just drag and drop them into the text field when filling out the form.
 
-- 👣 **List all steps to reproduce the issue.** <br>Be specific! We need to follow the exact steps you took to trigger the issue — ideally on a clean WordPress installation. <br>Reports without clear reproduction steps may be closed, as we cannot fix what we cannot replicate.
+- 👣 **List all steps to reproduce the issue.** <br>Be specific! We need to follow the exact steps you took to reproduce the issue — ideally on a clean WordPress installation. <br>Reports without clear reproduction steps may be closed, as we cannot fix what we cannot replicate.
 
 - 🧠 **Explain what you expected to happen.** <br>Help us understand what you believe the correct or intended behavior should be. If you were expecting a feature that does not exist, it might not be a bug — in that case, please submit a Feature Request instead. You can find the link in the 🔗 **Quick Links** section.
 
@@ -95,7 +95,7 @@ To make it easier for the team to understand and resolve your issue, please foll
 > The form starts here. All sections below this note represent the actual fields in the form.
 
 ### Description*
-Please describe the issue in detail, include as much context as you can. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below.
+Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below.
 
 ```txt
 Leave a comment
@@ -108,7 +108,7 @@ Leave a comment
 ```
 
 ### Steps to reproduce*
-List all steps to reproduce the issue. Be specific! We need to be able to follow the same steps you took to trigger the same issue, ideally on a clean WordPress installation.
+List all steps to reproduce the issue. Be specific! We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation.
 
 ```txt
 1. 
@@ -120,7 +120,7 @@ List all steps to reproduce the issue. Be specific! We need to be able to follow
 ```
 
 ### Expected behavior*
-Explain what you expected to happen. Let us understand what you think the intended behavior is. This helps us identify the root of the issue faster.
+Explain what you expected to happen. Help us understand what you expected to happen and why. This helps us identify the root of the issue faster.
 
 ```txt
 1. 
