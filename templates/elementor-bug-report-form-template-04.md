@@ -142,32 +142,32 @@ By filling this form you confirm that you have read and followed the guidelines 
 
 Need something else? These links will help you get support, learn, or contribute in the right place:
 
-- 🛟 **Get Personal Support** — Need help or guidance? <br>https://elemn.to/support-ticket
+- 🛟 **Get Personal Support** — Need help or guidance? https://elemn.to/support-ticket
 
-- 🔧 **Fix Common Issues** — Troubleshoot the most frequent problems. <br>https://elemn.to/help-troubleshooting
+- 🔧 **Fix Common Issues** — Troubleshoot the most frequent problems. https://elemn.to/help-troubleshooting
 
-- 📑 **Help Center** — Documentation, FAQs, and useful articles. <br>https://elemn.to/help
+- 📑 **Help Center** — Documentation, FAQs, and useful articles. https://elemn.to/help
 
-- 🎓 **Elementor Academy** — Learn how to use Elementor like a pro. <br>https://elemn.to/academy
+- 🎓 **Elementor Academy** — Learn how to use Elementor like a pro. https://elemn.to/academy
 
-- 💬 **Discord Community** — Chat with other Web Creators. <br>https://elemn.to/discord
+- 💬 **Discord Community** — Chat with other Web Creators. https://elemn.to/discord
 
-- 🌍 **Facebook Community** — Help and get help from other Elementor users. <br>https://elemn.to/community-on-fb
+- 🌍 **Facebook Community** — Help and get help from other Elementor users. https://elemn.to/community-on-fb
 
-- 🌐 **Developers Community** — Share code tips and ask other devs about extending with Elementor. <br>https://elemn.to/dev-community
+- 🌐 **Developers Community** — Share code tips and ask other devs about extending with Elementor. https://elemn.to/dev-community
 
-- 📚 **Developers Center** — For extending Elementor via API or custom code. <br>https://elemn.to/dev-center
+- 📚 **Developers Center** — For extending Elementor via API or custom code. https://elemn.to/dev-center
 
-- 🚀 **Feature Requests** — Suggest new ideas or improvements. <br>https://elemn.to/gh-feature-requests
+- 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
 
-- 🚩 **Elementor Roadmap** — Check what’s coming next. <br>https://elemn.to/roadmap
+- 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
 
-- 🧪 **Editor V4 Discussion** — Share your feedback! <br>[https://elemn.to/editor-v4-discussion](#)
+- 🧪 **Editor V4 Discussion** — Share your feedback! [https://elemn.to/editor-v4-discussion](#)
 
-- 🐛 **Editor V4 Bug Reports** — Share your feedback! <br>[https://elemn.to/editor-v4-bugs](#)
+- 🐛 **Editor V4 Bug Reports** — Share your feedback! [https://elemn.to/editor-v4-bugs](#)
 
-- 📖 **Contribution Guidelines** — Learn how to contribute to this repository. <br>https://elemn.to/gh-contributing
+- 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
 
-- 🤝 **Code of Conduct** — Help us foster a respectful and inclusive environment. <br>https://elemn.to/gh-code-of-conduct
+- 🤝 **Code of Conduct** — Help us foster a respectful and inclusive environment. https://elemn.to/gh-code-of-conduct
 
-- 🛡️ **Security Policy** — Report vulnerabilities safely. <br>https://elemn.to/gh-security
+- 🛡️ **Security Policy** — Report vulnerabilities safely. https://elemn.to/gh-security
