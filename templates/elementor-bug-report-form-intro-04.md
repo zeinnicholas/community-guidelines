@@ -30,7 +30,7 @@ Before you begin, please take a moment to review our **[Contribution Guidelines]
 
 > [!NOTE]
 > ### 🧪 Elementor Editor V4
-> If you are testing the new **[Editor V4](https://elementor.com/editor-v4)** experimental features and wish to report bugs or discuss, and share feedback about them, please use one of the forms below:
+> If you are testing the new **[Editor V4](https://elementor.com/editor-v4)** experimental features and wish to report bugs or share feedback, please use one of the forms below:
 > 
 > 🐞 **[Report bugs specific to Editor V4](#)**  
 > 🗣️ **[Discuss Editor V4 features](#)**
@@ -42,7 +42,7 @@ For a quick review and efficient resolution, please ensure your report meets the
 
 - *️⃣ **All fields in this form are required.** — no exceptions. <br>Incomplete issues will be closed without further action.
 
-- 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time. Use the **[filters at the top of the Issues list](#)** to narrow down your results.
+- 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[filters at the top of the Issues list](#)** to narrow your search.
 
 - 🆕 **Ensure you have the latest stable versions installed.** <br>Including Elementor, Elementor Pro, WordPress core, your active theme, and all installed plugins. <br>👉 Stay updated: **[Elementor Changelogs](https://elemn.to/changelog)**
 
@@ -50,7 +50,7 @@ For a quick review and efficient resolution, please ensure your report meets the
 
 - 🕵️ **Test with only Elementor, Elementor Pro, and the Hello Theme active.** <br>Temporarily disable all other plugins and themes. This step helps confirm that the issue is not being caused by a 3rd-party conflict. <br>👉 Reference: **[Troubleshooting the Editor](https://elemn.to/help-troubleshooting)**
 
-- 💾 **Copy & Paster your complete Elementor System Info.** <br>This is not optional, and helps us replicate your issue better. Reports without the full Elementor System Info will be closed. <br>👉 Learn how to copy it here: **[Share system information with Elementor](https://elemn.to/help-system-info)**
+- 💾 **Copy & Paste your complete Elementor System Info.** <br>This is not optional and helps us better reproduce and understand your issue. Reports without the full Elementor System Info will be closed. <br>👉 Learn how to copy it here: **[Share system information with Elementor](https://elemn.to/help-system-info)**
 
 - 🪪 **If you’re a 3rd-party developer**, please introduce yourself. <br>Include your name, company, product name, and a way for us to contact you (such as an email address) if needed. <br>This helps us collaborate more effectively.
 
@@ -62,7 +62,7 @@ For a quick review and efficient resolution, please ensure your report meets the
 
 To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**. 
 
-- 🛟 **Requests for personal suppor.t** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact our **[official support channels](https://elemn.to/support-ticket)**.
+- 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact our **[official support channels](https://elemn.to/support-ticket)**.
 
 - 🧩 **Conflicts with 3rd-party plugins, themes, or services.** <br>We’re only able to address issues related to Elementor and Elementor Pro directly. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
 
@@ -87,9 +87,9 @@ To make it easier for the team to understand and resolve your issue, please foll
 
 - 💬 **Describe the issue in detail.** <br>Include as much context as you can. What happened? When did it start? What page or feature does it affect? <br>Feel free to attach screenshots or screen recordings — just drag and drop them into the text field when filling out the form.
 
-- 👣 **List all steps to reproduce the issue.** <br>Be specific! We need to be able to follow the same steps you took to trigger the issue, ideally on a clean WordPress installation. <br>Reports without clear reproduction steps may be closed, as we cannot fix what we cannot replicate.
+- 👣 **List all steps to reproduce the issue.** <br>Be specific! We need to follow the exact steps you took to trigger the issue — ideally on a clean WordPress installation. <br>Reports without clear reproduction steps may be closed, as we cannot fix what we cannot replicate.
 
-- 🧠 **Explain what you expected to happen.** <br>Let us understand what you think the intended behavior is. If you were expecting a feature that does not exist, it might not be a bug — in that case, please submit a Feature Request instead. You can find the link in the 🔗 **Quick Links** section.
+- 🧠 **Explain what you expected to happen.** <br>Help us understand what you believe the correct or intended behavior should be. If you were expecting a feature that does not exist, it might not be a bug — in that case, please submit a Feature Request instead. You can find the link in the 🔗 **Quick Links** section.
 
 > [!NOTE]
 > The form starts here. All sections below this note represent the actual fields in the form.
