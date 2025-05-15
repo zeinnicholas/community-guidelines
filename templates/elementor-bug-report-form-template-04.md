@@ -150,11 +150,11 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 🎓 **Elementor Academy** — Learn how to use Elementor like a pro. <br>https://elemn.to/academy
 
-- 📖 **Contribution Guidelines** — Learn how to contribute to this repository. <br>https://elemn.to/gh-contributing
+- 💬 **Discord Community** — Chat with other Web Creators. <br>https://elemn.to/discord
 
-- 🤝 **Code of Conduct** — Help us foster a respectful and inclusive environment. <br>https://elemn.to/gh-code-of-conduct
+- 🌍 **Facebook Community** — Help and get help from other Elementor users. <br>https://elemn.to/community-on-fb
 
-- 🛡️ **Security Policy** — Report vulnerabilities safely. <br>https://elemn.to/gh-security
+- 🌐 **Developers Community** — Share code tips and ask other devs about extending with Elementor. <br>https://elemn.to/dev-community
 
 - 📚 **Developers Center** — For extending Elementor via API or custom code. <br>https://elemn.to/dev-center
 
@@ -162,8 +162,12 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 🚩 **Elementor Roadmap** — Check what’s coming next. <br>https://elemn.to/roadmap
 
-- 💬 **Discord Community** — Chat with other Web Creators. <br>https://elemn.to/discord
+- 🧪 **Editor V4 Discussion** — Share your feedback! <br>[https://elemn.to/editor-v4-discussion](#)
 
-- 🌍 **Facebook Community** — Help and get help from other Elementor users. <br>https://elemn.to/community-on-fb
+- 🐛 **Editor V4 Bug Reports** — Share your feedback! <br>[https://elemn.to/editor-v4-bugs](#)
 
-- 🌐 **Developers Community** — Share code tips and ask other devs about extending with Elementor. <br>https://elemn.to/dev-community
+- 📖 **Contribution Guidelines** — Learn how to contribute to this repository. <br>https://elemn.to/gh-contributing
+
+- 🤝 **Code of Conduct** — Help us foster a respectful and inclusive environment. <br>https://elemn.to/gh-code-of-conduct
+
+- 🛡️ **Security Policy** — Report vulnerabilities safely. <br>https://elemn.to/gh-security
