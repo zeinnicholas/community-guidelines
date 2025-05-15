@@ -21,7 +21,7 @@ Your feedback is incredibly valuable. Use this form to report bugs related to Ed
 Before getting started, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These help us keep this space respectful, organized, and inclusive for everyone.
 
 > [!IMPORTANT]
-> ### 🐛 This form is for reporting confirmed bugs in Editor V4 experimental features only.
+> ### 🐛 This form is for reporting <ins>confirmed bugs in Editor V4</ins> experimental features only.
 > Please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 components.
 > If your issue is unrelated to Editor V4 features, or if you're here for another reason please **[use our general 🐞 Bug Report form instead](#)**.
 >
