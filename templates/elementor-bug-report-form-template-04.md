@@ -132,7 +132,7 @@ Explain what you expected to happen. Help us understand what you believe the cor
 ```
 
 ### Agreement*
-By filling this form you confirm that you have read and followed the guidelines and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them.
+By filling out this form, you confirm that you have read and followed the guidelines and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them.
 
 - [ ] I confirm I have read and followed all the guidelines and instructions outlined in the Bug Report form.
 - [ ] I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Bug Report form.
