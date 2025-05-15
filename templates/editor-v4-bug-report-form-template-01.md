@@ -81,7 +81,7 @@ To keep this repository focused and efficient, there are some types of reports t
 
 To make it easier for the team to understand and resolve your issue, please follow these best practices:
 
-- ✒️ **Write a clear and descriptive title.** <br>A good title helps everyone quickly understand what the issue is about. Try to summarize the problem in a few words.
+- ✒️ **Use a clear and descriptive title** <br>A good title helps everyone quickly understand what the issue is about. Try to summarize the problem in a few words.
 
 - 💬 **Describe the issue in detail.** <br>Include as much context as you can. What happened? When did it start? What page or feature does it affect? <br>Feel free to attach screenshots or screen recordings — just drag and drop them into the text field when filling out the form.
 
@@ -164,7 +164,7 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 🧪 **Editor V4 Discussion** — Share your feedback! [https://elemn.to/editor-v4-discussion](#)
 
-- ❔ **Editor V4 FAQ** — Read the most frequent questions about the Editor V4 [https://elemn.to/editor-v4-faq](#)
+- ❔ **Editor V4 FAQ** — Read the most frequent questions about Editor V4. [https://elemn.to/editor-v4-faq](#)
 
 - 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
 
