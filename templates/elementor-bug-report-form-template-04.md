@@ -32,7 +32,7 @@ Before getting started, please take a moment to review our **[Contribution Guide
 > ### 🧪 Elementor Editor V4
 > If you are testing the new **[Editor V4](https://elementor.com/editor-v4)** experimental features and wish to report bugs or share feedback, please use one of the forms below:
 > 
-> 🐞 **[Report bugs specific to Editor V4](#)**  
+> 🐛 **[Report bugs specific to Editor V4](#)**  
 > 🗣️ **[Discuss Editor V4 features](#)**
 <br>
 
