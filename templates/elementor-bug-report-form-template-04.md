@@ -162,11 +162,11 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
 
-- 🐛 **Editor V4 Bug Reports** — Report issues with Editor V4. [https://elemn.to/editor-v4-bugs](#)
+- 🐛 **Editor V4 Bug Reports** — Report issues with **Editor V4**. [https://elemn.to/editor-v4-bugs](#)
 
 - 🧪 **Editor V4 Discussion** — Share your feedback! [https://elemn.to/editor-v4-discussion](#)
 
-- ❔ **Editor V4 FAQ** — Read the most frequent questions about Editor V4. [https://elemn.to/editor-v4-faq](#)
+- ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
 
 - 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
 
